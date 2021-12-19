@@ -23,7 +23,7 @@ jobs:
           commit_message: "Update README with my latest blog posts"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
-          template: '- $date - [$title]($url'
+          template: '- $date - [$title]($url)$newline'
       - name: Update Voitanos' blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -32,7 +32,7 @@ jobs:
           commit_message: "Update README with Voitanos' latest blog posts"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
-          template: '- $date - [$title]($url'
+          template: '- $date - [$title]($url)$newline'
       - name: Update Microsoft Cloud Show episodes
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -41,4 +41,4 @@ jobs:
           commit_message: "Update README with MSCLOUDSHOW's latest episodes"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
-          template: '- $date - [$title]($url'
+          template: '- $date - [$title]($url)$newline'
