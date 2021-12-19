@@ -19,7 +19,12 @@ I'm is a web developer with a focus on Microsoft Azure & Microsoft 365. I've rec
 <!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
-<!-- MSCLOUDSHOWBLOG-POST-LIST:START -->- Dec 14, 2021 - [AWS&#39;s Outage, Microsoft Azure News &amp; Microsoft 365 Developer Updates](https://www.microsoftcloudshow.com/podcast/Episodes/438-aws-outage-microsoft-azure-news-microsoft-365-developer-updates/- Dec 7, 2021 - [AWS re:Invent Recap](https://www.microsoftcloudshow.com/podcast/Episodes/437-aws-reinvent-recap/- Nov 23, 2021 - [Azure Functions CI &amp; CD](https://www.microsoftcloudshow.com/podcast/Episodes/436-azure-functions-ci-cd/- Nov 16, 2021 - [Microsoft Ignite 2021 - Microsoft Azure Recap](https://www.microsoftcloudshow.com/podcast/Episodes/435-microsoft-ignite-2021-microsoft-azure-recap/- Nov 9, 2021 - [Microsoft Ignite 2021 Microsoft 365 Recap](https://www.microsoftcloudshow.com/podcast/Episodes/434-microsoft-ignite-2021-microsoft-365-recap/<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
+<!-- MSCLOUDSHOWBLOG-POST-LIST:START -->- Dec 14, 2021 - [AWS&#39;s Outage, Microsoft Azure News &amp; Microsoft 365 Developer Updates](https://www.microsoftcloudshow.com/podcast/Episodes/438-aws-outage-microsoft-azure-news-microsoft-365-developer-updates/)
+- Dec 7, 2021 - [AWS re:Invent Recap](https://www.microsoftcloudshow.com/podcast/Episodes/437-aws-reinvent-recap/)
+- Nov 23, 2021 - [Azure Functions CI &amp; CD](https://www.microsoftcloudshow.com/podcast/Episodes/436-azure-functions-ci-cd/)
+- Nov 16, 2021 - [Microsoft Ignite 2021 - Microsoft Azure Recap](https://www.microsoftcloudshow.com/podcast/Episodes/435-microsoft-ignite-2021-microsoft-azure-recap/)
+- Nov 9, 2021 - [Microsoft Ignite 2021 Microsoft 365 Recap](https://www.microsoftcloudshow.com/podcast/Episodes/434-microsoft-ignite-2021-microsoft-365-recap/)
+<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
 
 ## 👊 Get in touch
 
