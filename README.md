@@ -11,12 +11,12 @@ I'm is a web developer with a focus on Microsoft Azure & Microsoft 365. I've rec
 - Jul 5, 2021 - [Mastering SharePoint Framework Code Refresh + new React Hooks demo](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-code-refresh-react-hooks/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
-<!-- VOITANOSBLOG-POST-LIST:START -->- Oct 19, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)
+<!-- VOITANOSBLOG-POST-LIST:START -->
+- Oct 19, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)
 - Oct 11, 2021 - [Learn &#39;What&#39;s the SharePoint Framework is in our new email course!](https://www.voitanos.io/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)
 - Aug 31, 2021 - [Get answers to your SharePoint Framework questions](https://www.voitanos.io/blog/get-answers-sharepoint-framework-questions/)
 - Aug 24, 2021 - [Optimize bundles by disabling IE11 support in SPFx projects](https://www.voitanos.io/blog/optimize-spfx-bundles-ditch-ie11-support/)
-- Aug 17, 2021 - [State of SharePoint Client Side Development | August 2021](https://www.voitanos.io/blog/state-of-sharepoint-client-side-dev-2021-august/)
-<!-- VOITANOSBLOG-POST-LIST:END -->
+- Aug 17, 2021 - [State of SharePoint Client Side Development | August 2021](https://www.voitanos.io/blog/state-of-sharepoint-client-side-dev-2021-august/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
 <!-- MSCLOUDSHOWBLOG-POST-LIST:START -->- Dec 14, 2021 - [AWS&#39;s Outage, Microsoft Azure News &amp; Microsoft 365 Developer Updates](https://www.microsoftcloudshow.com/podcast/Episodes/438-aws-outage-microsoft-azure-news-microsoft-365-developer-updates/)
