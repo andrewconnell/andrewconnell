@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
-- Aug 31, 2021 - [Back to school! Time to modernize those SPFx projects!](https://www.andrewconnell.com/blog/modernize-your-sharepoint-framework-projects/)
-- Jul 13, 2021 - [Fix the &quot;can&#39;t find custom rule directory: tslint-microsoft-contrib&quot; error in SPFx projects](https://www.andrewconnell.com/blog/spfx-fix-cant-find-custom-rule-directory-tslint-microsoft-contrib/)
-- Jul 7, 2021 - [Update to my Azure Pipelines Templates for SPFx Projects &lpar;v1.3.0&rpar;](https://www.andrewconnell.com/blog/azure-pipeline-spfx-template-1-4/)
-- Jul 5, 2021 - [Microsoft MVP Renewed 17th Year](https://www.andrewconnell.com/blog/microsoft-mvp-renewed-17th-year/)
-- Jul 5, 2021 - [Mastering SharePoint Framework Code Refresh + new React Hooks demo](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-code-refresh-react-hooks/)<!-- MYBLOG-POST-LIST:END -->
+- Dec 22, 2021 - [Retiring comments for articles on my sites](https://www.andrewconnell.com/blog/retired-comments/)
+- Dec 22, 2021 - [Microsoft Cloud Show - Episode 439 Hacks Crashes and the News](https://www.andrewconnell.com/blog/mscloudshow-439-hacks-crashes-and-the-news/)
+- Dec 22, 2021 - [Microsoft Cloud Show - Episode 438 AWS Outage, Microsoft Azure News &amp; Microsoft 365 Developer Updates](https://www.andrewconnell.com/blog/mscloudshow-438-aws-outage-microsoft-azure-news-microsoft-365-developer-updates/)
+- Oct 22, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)
+- Aug 31, 2021 - [Back to school! Time to modernize those SPFx projects!](https://www.andrewconnell.com/blog/modernize-your-sharepoint-framework-projects/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
