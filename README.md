@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Dec 23, 2021 - [Microsoft Cloud Show - Episode 437 AWS Reinvent Recap](https://www.andrewconnell.com/blog/mscloudshow-437-aws-reinvent-recap/)
+- Dec 23, 2021 - [What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | December 2021](https://www.andrewconnell.com/blog/whats-new-ms600-exam-december-2021/)
+- Dec 23, 2021 - [Microsoft Cloud Show - Episode 436 Azure Functions CI &amp; CD](https://www.andrewconnell.com/blog/mscloudshow-436-azure-functions-ci-cd/)
 - Dec 22, 2021 - [Retiring comments for articles on my sites](https://www.andrewconnell.com/blog/retired-comments/)
-- Dec 22, 2021 - [Microsoft Cloud Show - Episode 439 Hacks Crashes and the News](https://www.andrewconnell.com/blog/mscloudshow-439-hacks-crashes-and-the-news/)
-- Dec 22, 2021 - [Microsoft Cloud Show - Episode 438 AWS Outage, Microsoft Azure News &amp; Microsoft 365 Developer Updates](https://www.andrewconnell.com/blog/mscloudshow-438-aws-outage-microsoft-azure-news-microsoft-365-developer-updates/)
-- Oct 22, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)
-- Aug 31, 2021 - [Back to school! Time to modernize those SPFx projects!](https://www.andrewconnell.com/blog/modernize-your-sharepoint-framework-projects/)<!-- MYBLOG-POST-LIST:END -->
+- Dec 22, 2021 - [Microsoft Cloud Show - Episode 439 Hacks Crashes and the News](https://www.andrewconnell.com/blog/mscloudshow-439-hacks-crashes-and-the-news/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
