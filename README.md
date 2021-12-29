@@ -24,11 +24,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Dec 28, 2021 - [Fix SharePoint Framework projects to enable the React DevTools profiler](https://www.voitanos.io/blog/fix-spfx-projects-to-enable-the-react-devtools-profiler/)
 - Dec 21, 2021 - [Webinar: What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | January 2022](https://www.voitanos.io/webinars/whats-new-ms600-exam-january-2022/)
 - Dec 21, 2021 - [What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | December 2021](https://www.voitanos.io/blog/whats-new-ms600-exam-december-2021/)
 - Oct 19, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)
-- Oct 11, 2021 - [Learn &#39;What&#39;s the SharePoint Framework is in our new email course!](https://www.voitanos.io/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)
-- Aug 31, 2021 - [Get answers to your SharePoint Framework questions](https://www.voitanos.io/blog/get-answers-sharepoint-framework-questions/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Oct 11, 2021 - [Learn &#39;What&#39;s the SharePoint Framework is in our new email course!](https://www.voitanos.io/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
 <!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
