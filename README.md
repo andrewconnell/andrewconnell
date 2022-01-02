@@ -16,7 +16,7 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
-- Dec 29, 2021 - [Learn &#39;What&#39;s the SharePoint Framework is in our new email course!](https://www.andrewconnell.com/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)
+- Dec 29, 2021 - [Learn &#39;What is the SharePoint Framework&#39; is in our new email course!](https://www.andrewconnell.com/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)
 - Dec 29, 2021 - [Microsoft Cloud Show - Episode 440 - Reflecting on 2021](https://www.andrewconnell.com/blog/mscloudshow-440-reflecting-on-2021/)
 - Dec 28, 2021 - [Fix SharePoint Framework projects to enable the React DevTools profiler](https://www.andrewconnell.com/blog/fix-spfx-projects-to-enable-the-react-devtools-profiler/)
 - Dec 27, 2021 - [Get answers to your SharePoint Framework questions](https://www.andrewconnell.com/blog/get-answers-sharepoint-framework-questions/)
