@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Jan 6, 2022 - [Join me at 365EduCon &lpar;SPFest&rpar; Seattle in May 2022 - SharePoint Framework and Azure Functions](https://www.andrewconnell.com/blog/joinme-359educon-spfest-seattle-2022/)
 - Jan 5, 2022 - [Understand difference SharePoint Framework generator related packages](https://www.andrewconnell.com/blog/understand-difference-sharepoint-framework-generator-library-packages/)
 - Jan 2, 2022 - [What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | January 2022](https://www.andrewconnell.com/blog/whats-new-ms600-exam-january-2022/)
 - Dec 29, 2021 - [Learn &#39;What is the SharePoint Framework&#39; is in our new email course!](https://www.andrewconnell.com/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)
-- Dec 29, 2021 - [Microsoft Cloud Show - Episode 440 - Reflecting on 2021](https://www.andrewconnell.com/blog/mscloudshow-440-reflecting-on-2021/)
-- Dec 28, 2021 - [Fix SharePoint Framework projects to enable the React DevTools profiler](https://www.andrewconnell.com/blog/fix-spfx-projects-to-enable-the-react-devtools-profiler/)<!-- MYBLOG-POST-LIST:END -->
+- Dec 29, 2021 - [Microsoft Cloud Show - Episode 440 - Reflecting on 2021](https://www.andrewconnell.com/blog/mscloudshow-440-reflecting-on-2021/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
