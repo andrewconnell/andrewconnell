@@ -24,11 +24,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server SE](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-subscription-edition/)
+- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2019](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2019/)
 - Jan 4, 2022 - [Understand difference SharePoint Framework generator related packages](https://www.voitanos.io/blog/understand-difference-sharepoint-framework-generator-library-packages/)
 - Dec 28, 2021 - [Fix SharePoint Framework projects to enable the React DevTools profiler](https://www.voitanos.io/blog/fix-spfx-projects-to-enable-the-react-devtools-profiler/)
-- Dec 21, 2021 - [Webinar: What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | January 2022](https://www.voitanos.io/webinars/whats-new-ms600-exam-january-2022/)
-- Dec 21, 2021 - [What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | December 2021](https://www.voitanos.io/blog/whats-new-ms600-exam-december-2021/)
-- Oct 19, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Dec 21, 2021 - [Webinar: What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | January 2022](https://www.voitanos.io/webinars/whats-new-ms600-exam-january-2022/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
 <!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
