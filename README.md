@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Jan 19, 2022 - [Microsoft Cloud Show - Episode 442 | New Azure Features, TLS Changes &amp; SDKs for Developers](https://www.andrewconnell.com/blog/mscloudshow-442-new-azure-features-tls-changes-sdks-for-developers/)
+- Jan 19, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2016](https://www.andrewconnell.com/blog/definitive-guide-sharepoint-framework-sharepoint-server-2016/)
 - Jan 12, 2022 - [Microsoft Cloud Show - Episode 441 - Looking forward to 2022](https://www.andrewconnell.com/blog/mscloudshow-441-looking-forward-to-2022/)
 - Jan 12, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server SE](https://www.andrewconnell.com/blog/definitive-guide-sharepoint-framework-sharepoint-server-subscription-edition/)
-- Jan 12, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2019](https://www.andrewconnell.com/blog/definitive-guide-sharepoint-framework-sharepoint-server-2019/)
-- Jan 6, 2022 - [Join me at 365EduCon &lpar;SPFest&rpar; Seattle in May 2022 - SharePoint Framework and Azure Functions](https://www.andrewconnell.com/blog/joinme-359educon-spfest-seattle-2022/)
-- Jan 5, 2022 - [Understand difference SharePoint Framework generator related packages](https://www.andrewconnell.com/blog/understand-difference-sharepoint-framework-generator-library-packages/)<!-- MYBLOG-POST-LIST:END -->
+- Jan 12, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2019](https://www.andrewconnell.com/blog/definitive-guide-sharepoint-framework-sharepoint-server-2019/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
