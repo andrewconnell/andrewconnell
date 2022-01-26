@@ -32,8 +32,8 @@ I live with my wife & two kids in Florida.
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
 <!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
+- Jan 25, 2022 - [Microsoft&#39;s Blockbuster Blizzard Acquisition &amp; Updates to Azure Kubernetes Service](https://www.microsoftcloudshow.com/podcast/Episodes/443-microsofts-blockbuster-blizzard-acquisition-updates-azure-kubernetes-service/)
 - Jan 18, 2022 - [New Azure Features, TLS Changes &amp; SDKs for Developers](https://www.microsoftcloudshow.com/podcast/Episodes/442-new-azure-features-tls-changes-sdks-for-developers/)
 - Jan 11, 2022 - [Looking Forward to 2022](https://www.microsoftcloudshow.com/podcast/Episodes/441-looking-forward-to-2022/)
 - Dec 28, 2021 - [Reflecting on 2021](https://www.microsoftcloudshow.com/podcast/Episodes/440-reflecting-on-2021/)
-- Dec 21, 2021 - [Hacks, Crashes and the News](https://www.microsoftcloudshow.com/podcast/Episodes/439-hacks-crashes-and-the-news/)
-- Dec 14, 2021 - [AWS&#39;s Outage, Microsoft Azure News &amp; Microsoft 365 Developer Updates](https://www.microsoftcloudshow.com/podcast/Episodes/438-aws-outage-microsoft-azure-news-microsoft-365-developer-updates/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
+- Dec 21, 2021 - [Hacks, Crashes and the News](https://www.microsoftcloudshow.com/podcast/Episodes/439-hacks-crashes-and-the-news/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
