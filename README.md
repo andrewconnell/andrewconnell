@@ -24,11 +24,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jan 25, 2022 - [How to set up SPFx development environments for multiple SharePoint Server deployments](https://www.voitanos.io/blog/how-to-setup-sharepoint-framework-development-environment-for-multiple-sharepoint-server-deployments/)
 - Jan 18, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2016](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2016/)
 - Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server SE](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-subscription-edition/)
 - Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2019](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2019/)
-- Jan 4, 2022 - [Understand difference SharePoint Framework generator related packages](https://www.voitanos.io/blog/understand-difference-sharepoint-framework-generator-library-packages/)
-- Dec 28, 2021 - [Fix SharePoint Framework projects to enable the React DevTools profiler](https://www.voitanos.io/blog/fix-spfx-projects-to-enable-the-react-devtools-profiler/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jan 4, 2022 - [Understand difference SharePoint Framework generator related packages](https://www.voitanos.io/blog/understand-difference-sharepoint-framework-generator-library-packages/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
 <!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
