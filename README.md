@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
-- Oct 7, 2020 - [Why did Microsoft create the SharePoint Framework?](https://www.andrewconnell.com/blog/spfx-5w1h-why-did-microsoft-create-sharepoint-framework/)
-- Oct 6, 2020 - [What is the SharePoint Framework?](https://www.andrewconnell.com/blog/spfx-5w1h-what-is-the-sharepoint-framework/)
-- Oct 6, 2020 - [SharePoint Framework Five &quot;W&quot;s &amp; 1 &quot;H&quot; Answered - Overview](https://www.andrewconnell.com/blog/spfx-5w1h-sharepoint-framework-what-who-where-when-why-how-overview/)
-- Aug 15, 2015 - [Node.js Development for .NET Developers: Developing and Debugging Workflow](https://www.andrewconnell.com/blog/node-js-development-for-net-developers-developing-and-debugging-workflow/)
-- Jul 4, 2015 - [Node.js Development for .NET Developers: Tools](https://www.andrewconnell.com/blog/node-js-development-for-net-developers-tools/)<!-- MYBLOG-POST-LIST:END -->
+- Jan 26, 2022 - [How to set up SPFx development environments for multiple SharePoint Server deployments](https://www.andrewconnell.com/blog/how-to-setup-sharepoint-framework-development-environment-for-multiple-sharepoint-server-deployments/)
+- Jan 26, 2022 - [Microsoft Cloud Show - Episode 443 | Microsoft&#39;s Blockbuster Blizzard Acquisition &amp; Updates to Azure Kubernetes Service](https://www.andrewconnell.com/blog/mscloudshow-443-microsofts-blockbuster-blizzard-acquisition-updates-azure-kubernetes-service/)
+- Jan 19, 2022 - [Microsoft Cloud Show - Episode 442 | New Azure Features, TLS Changes &amp; SDKs for Developers](https://www.andrewconnell.com/blog/mscloudshow-442-new-azure-features-tls-changes-sdks-for-developers/)
+- Jan 19, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2016](https://www.andrewconnell.com/blog/definitive-guide-sharepoint-framework-sharepoint-server-2016/)
+- Jan 12, 2022 - [Microsoft Cloud Show - Episode 441 - Looking forward to 2022](https://www.andrewconnell.com/blog/mscloudshow-441-looking-forward-to-2022/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
