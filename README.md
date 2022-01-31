@@ -14,7 +14,7 @@ I live with my wife & two kids in Florida.
 [![](./images/instagram.svg)](https://www.instagram.com/andrewconnell1)
 [![](./images/youtube.svg)](https://www.youtube.com/user/jaconnell)
 
-## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
+## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
 - Oct 7, 2020 - [Why did Microsoft create the SharePoint Framework?](https://www.andrewconnell.com/blog/spfx-5w1h-why-did-microsoft-create-sharepoint-framework/)
 - Oct 6, 2020 - [What is the SharePoint Framework?](https://www.andrewconnell.com/blog/spfx-5w1h-what-is-the-sharepoint-framework/)
