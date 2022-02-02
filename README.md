@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Feb 1, 2022 - [Mea culpa - always install gulp-cli globally, not gulp](https://www.andrewconnell.com/blog/mea-culpa-always-install-gulp-cli-globally-not-gulp/)
 - Jan 26, 2022 - [How to set up SPFx development environments for multiple SharePoint Server deployments](https://www.andrewconnell.com/blog/how-to-setup-sharepoint-framework-development-environment-for-multiple-sharepoint-server-deployments/)
 - Jan 26, 2022 - [Microsoft Cloud Show - Episode 443 | Microsoft&#39;s Blockbuster Blizzard Acquisition &amp; Updates to Azure Kubernetes Service](https://www.andrewconnell.com/blog/mscloudshow-443-microsofts-blockbuster-blizzard-acquisition-updates-azure-kubernetes-service/)
 - Jan 19, 2022 - [Microsoft Cloud Show - Episode 442 | New Azure Features, TLS Changes &amp; SDKs for Developers](https://www.andrewconnell.com/blog/mscloudshow-442-new-azure-features-tls-changes-sdks-for-developers/)
-- Jan 19, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2016](https://www.andrewconnell.com/blog/definitive-guide-sharepoint-framework-sharepoint-server-2016/)
-- Jan 12, 2022 - [Microsoft Cloud Show - Episode 441 - Looking forward to 2022](https://www.andrewconnell.com/blog/mscloudshow-441-looking-forward-to-2022/)<!-- MYBLOG-POST-LIST:END -->
+- Jan 19, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2016](https://www.andrewconnell.com/blog/definitive-guide-sharepoint-framework-sharepoint-server-2016/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
