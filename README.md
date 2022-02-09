@@ -32,8 +32,8 @@ I live with my wife & two kids in Florida.
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
 <!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
+- Feb 8, 2022 - [Is 2022 the Year of Gaming Consolidation or the Metaverse Burn Pit](https://www.microsoftcloudshow.com/podcast/Episodes/445-is-2022-the-year-of-gaming-consolidation-or-the-metaverse-burn-pit/)
 - Feb 1, 2022 - [Microsoft&#39;s Astronomical Growth, Mainframes in the Cloud &amp; Some News](https://www.microsoftcloudshow.com/podcast/Episodes/444-microsofts-astronomical-growth-mainframes-in-the-cloud-some-news/)
 - Jan 25, 2022 - [Microsoft&#39;s Blockbuster Blizzard Acquisition &amp; Updates to Azure Kubernetes Service](https://www.microsoftcloudshow.com/podcast/Episodes/443-microsofts-blockbuster-blizzard-acquisition-updates-azure-kubernetes-service/)
 - Jan 18, 2022 - [New Azure Features, TLS Changes &amp; SDKs for Developers](https://www.microsoftcloudshow.com/podcast/Episodes/442-new-azure-features-tls-changes-sdks-for-developers/)
-- Jan 11, 2022 - [Looking Forward to 2022](https://www.microsoftcloudshow.com/podcast/Episodes/441-looking-forward-to-2022/)
-- Dec 28, 2021 - [Reflecting on 2021](https://www.microsoftcloudshow.com/podcast/Episodes/440-reflecting-on-2021/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
+- Jan 11, 2022 - [Looking Forward to 2022](https://www.microsoftcloudshow.com/podcast/Episodes/441-looking-forward-to-2022/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
