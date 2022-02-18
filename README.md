@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Feb 17, 2022 - [Microsoft Cloud Show - 446 | Microsoft Tries to Make Nice With FTC and Microsoft Teams Saving the Environment](https://www.andrewconnell.com/blog/mscloudshow-446-microsoft-try-to-make-nice-with-ftc-and-teams-saving-the-environment/)
 - Feb 9, 2022 - [Microsoft Cloud Show - 445 | Is 2022 the Year of Gaming Consolidation or the Metaverse Burn Pit](https://www.andrewconnell.com/blog/mscloudshow-445-is-2022-the-year-of-gaming-consolidation-or-the-metaverse-burn-pit/)
 - Feb 8, 2022 - [Microsoft Learning: Create interactive meeting apps for Microsoft Teams](https://www.andrewconnell.com/blog/mslearning-msteams-meetings-apps/)
 - Feb 3, 2022 - [Microsoft Cloud Show - 444 | Microsoft&#39;s Astronomical Growth, Mainframes in the Cloud &amp; Some News](https://www.andrewconnell.com/blog/mscloudshow-444-microsofts-astronomical-growth-mainframes-in-the-cloud-some-news/)
-- Feb 2, 2022 - [AndrewConnell.com v5 - new year &amp; a new site theme](https://www.andrewconnell.com/blog/a-new-year-a-new-site-theme/)
-- Feb 1, 2022 - [Mea culpa - always install gulp-cli globally, not gulp](https://www.andrewconnell.com/blog/mea-culpa-always-install-gulp-cli-globally-not-gulp/)<!-- MYBLOG-POST-LIST:END -->
+- Feb 2, 2022 - [AndrewConnell.com v5 - new year &amp; a new site theme](https://www.andrewconnell.com/blog/a-new-year-a-new-site-theme/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
