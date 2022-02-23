@@ -32,8 +32,8 @@ I live with my wife & two kids in Florida.
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
 <!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
+- Feb 22, 2022 - [Office in Microsoft Teams, Microsoft 365 Pitches Legacy G-Suite Customers, and More Cloud News](https://www.microsoftcloudshow.com/podcast/Episodes/447-office-in-microsoft-teams-microsoft-365-pitches-legacy-g-suite-customer-and-more-cloud-news/)
 - Feb 15, 2022 - [Microsoft Tries to Make Nice With FTC and Microsoft Teams Saving the Environment](https://www.microsoftcloudshow.com/podcast/Episodes/446-microsoft-try-to-make-nice-with-ftc-and-teams-saving-the-environment/)
 - Feb 8, 2022 - [Is 2022 the Year of Gaming Consolidation or the Metaverse Burn Pit](https://www.microsoftcloudshow.com/podcast/Episodes/445-is-2022-the-year-of-gaming-consolidation-or-the-metaverse-burn-pit/)
 - Feb 1, 2022 - [Microsoft&#39;s Astronomical Growth, Mainframes in the Cloud &amp; Some News](https://www.microsoftcloudshow.com/podcast/Episodes/444-microsofts-astronomical-growth-mainframes-in-the-cloud-some-news/)
-- Jan 25, 2022 - [Microsoft&#39;s Blockbuster Blizzard Acquisition &amp; Updates to Azure Kubernetes Service](https://www.microsoftcloudshow.com/podcast/Episodes/443-microsofts-blockbuster-blizzard-acquisition-updates-azure-kubernetes-service/)
-- Jan 18, 2022 - [New Azure Features, TLS Changes &amp; SDKs for Developers](https://www.microsoftcloudshow.com/podcast/Episodes/442-new-azure-features-tls-changes-sdks-for-developers/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
+- Jan 25, 2022 - [Microsoft&#39;s Blockbuster Blizzard Acquisition &amp; Updates to Azure Kubernetes Service](https://www.microsoftcloudshow.com/podcast/Episodes/443-microsofts-blockbuster-blizzard-acquisition-updates-azure-kubernetes-service/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
