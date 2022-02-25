@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Feb 24, 2022 - [SPFx Basics: Initializing components - constructor vs. onInit&lpar;&rpar;](https://www.andrewconnell.com/blog/initialize-sharepoint-framework-components-constructor-oninit/)
 - Feb 23, 2022 - [Microsoft Cloud Show - 447 | Office in Microsoft Teams, Microsoft 365 Pitches Legacy G-Suite Customers, and More Cloud News](https://www.andrewconnell.com/blog/mscloudshow-447-office-in-microsoft-teams-microsoft-365-pitches-legacy-g-suite-customer-and-more-cloud-news/)
 - Feb 23, 2022 - [Understand difference SharePoint Framework generator related packages](https://www.andrewconnell.com/blog/understand-difference-sharepoint-framework-generator-library-packages/)
 - Feb 18, 2022 - [SharePoint Framework v1.14 - What’s in the latest Update of SPFx?](https://www.andrewconnell.com/blog/sharepoint-framework-v1-14-whats-in-latest-update-of-spfx/)
-- Feb 18, 2022 - [Debut of the Voitanos Podcast + relaunch of YouTube channel](https://www.andrewconnell.com/blog/debut-voitanos-podcast-voitanos-tv-youtube-channel/)
-- Feb 17, 2022 - [Microsoft Cloud Show - 446 | Microsoft Tries to Make Nice With FTC and Microsoft Teams Saving the Environment](https://www.andrewconnell.com/blog/mscloudshow-446-microsoft-try-to-make-nice-with-ftc-and-teams-saving-the-environment/)<!-- MYBLOG-POST-LIST:END -->
+- Feb 18, 2022 - [Debut of the Voitanos Podcast + relaunch of YouTube channel](https://www.andrewconnell.com/blog/debut-voitanos-podcast-voitanos-tv-youtube-channel/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
