@@ -24,11 +24,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Mar 1, 2022 - [State of SharePoint Client-Side Dev - Winter 2022](https://www.voitanos.io/blog/state-of-sharepoint-client-side-dev-2022-march/)
 - Feb 22, 2022 - [SPFx Basics: Initializing components - constructor vs. onInit&lpar;&rpar;](https://www.voitanos.io/blog/initialize-sharepoint-framework-components-constructor-oninit/)
 - Feb 17, 2022 - [SharePoint Framework v1.14 - What’s in the latest Update of SPFx?](https://www.voitanos.io/blog/sharepoint-framework-v1-14-whats-in-latest-update-of-spfx/)
 - Feb 17, 2022 - [Debut of the Voitanos Podcast + relaunch of YouTube channel](https://www.voitanos.io/blog/debut-voitanos-podcast-voitanos-tv-youtube-channel/)
-- Feb 8, 2022 - [Microsoft Learning: Create interactive meeting apps for Microsoft Teams](https://www.voitanos.io/blog/mslearning-msteams-meetings-apps/)
-- Feb 1, 2022 - [Mea culpa - always install gulp-cli globally, not gulp](https://www.voitanos.io/blog/mea-culpa-always-install-gulp-cli-globally-not-gulp/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Feb 8, 2022 - [Microsoft Learning: Create interactive meeting apps for Microsoft Teams](https://www.voitanos.io/blog/mslearning-msteams-meetings-apps/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
 <!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
