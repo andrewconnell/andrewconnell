@@ -16,11 +16,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Mar 9, 2022 - [Microsoft Cloud Show - 449 | Our Take on the State of Microsoft 365](https://www.andrewconnell.com/blog/mscloudshow-449-our-take-on-the-state-of-microsoft-365/)
 - Mar 4, 2022 - [State of SharePoint Client-Side Dev - Winter 2022](https://www.andrewconnell.com/blog/state-of-SharePoint-client-side-dev-2022-march/)
 - Mar 2, 2022 - [Microsoft Cloud Show - 448 | Our Take on the State of Microsoft Azure](https://www.andrewconnell.com/blog/mscloudshow-448-our-take-on-the-state-of-microsoft-azure/)
 - Feb 24, 2022 - [SPFx Basics: Initializing components - constructor vs. onInit&lpar;&rpar;](https://www.andrewconnell.com/blog/initialize-sharepoint-framework-components-constructor-oninit/)
-- Feb 23, 2022 - [Microsoft Cloud Show - 447 | Office in Microsoft Teams, Microsoft 365 Pitches Legacy G-Suite Customers, and More Cloud News](https://www.andrewconnell.com/blog/mscloudshow-447-office-in-microsoft-teams-microsoft-365-pitches-legacy-g-suite-customer-and-more-cloud-news/)
-- Feb 23, 2022 - [Understand difference SharePoint Framework generator related packages](https://www.andrewconnell.com/blog/understand-difference-sharepoint-framework-generator-library-packages/)<!-- MYBLOG-POST-LIST:END -->
+- Feb 23, 2022 - [Microsoft Cloud Show - 447 | Office in Microsoft Teams, Microsoft 365 Pitches Legacy G-Suite Customers, and More Cloud News](https://www.andrewconnell.com/blog/mscloudshow-447-office-in-microsoft-teams-microsoft-365-pitches-legacy-g-suite-customer-and-more-cloud-news/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
