@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Apr 15, 2022 - [April 2022 course update - Mastering the SharePoint Framework](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-course-update-april-2022/)
 - Apr 13, 2022 - [SharePoint Online Modern App Catalog - April 2022](https://www.andrewconnell.com/blog/sharepoint-app-catalog-modernization-april-2022/)
 - Mar 16, 2022 - [SPFx Basics: four &lpar;4&rpar; lesser-known web part manifest properties](https://www.andrewconnell.com/blog/sharepoint-framework-basics-lesser-known-webpart-manifest-properties/)
 - Mar 15, 2022 - [Microsoft Cloud Show - 450 | GoodbyeWorld&lpar;&rpar;; Our last podcast episode](https://www.andrewconnell.com/blog/mscloudshow-450-goodbyeworld-last-Microsoft-cloud-show-episode/)
-- Mar 11, 2022 - [What’s in the first SharePoint Framework v1.15 beta?](https://www.andrewconnell.com/blog/whats-in-sharepoint-framework-v1.15-beta/)
-- Mar 9, 2022 - [Microsoft Cloud Show - 449 | Our Take on the State of Microsoft 365](https://www.andrewconnell.com/blog/mscloudshow-449-our-take-on-the-state-of-microsoft-365/)<!-- MYBLOG-POST-LIST:END -->
+- Mar 11, 2022 - [What’s in the first SharePoint Framework v1.15 beta?](https://www.andrewconnell.com/blog/whats-in-sharepoint-framework-v1.15-beta/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
