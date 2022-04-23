@@ -14,7 +14,7 @@ I live with my wife & two kids in Florida.
 [![](./images/linkedin.svg)](https://www.linkedin.com/in/andrewconnell)
 [![](./images/github.svg)](https://www.github.com/andrewconnell)
 [![](./images/instagram.svg)](https://www.instagram.com/andrewconnell1)
-[![](./images/youtube.svg)](https://www.youtube.com/user/jaconnell)
+[![](./images/youtube.svg)](https://www.youtube.com/voitanosio)
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
@@ -32,7 +32,7 @@ I live with my wife & two kids in Florida.
 - Mar 8, 2022 - [SPFx Basics: four &lpar;4&rpar; lesser-known web part manifest properties](https://www.voitanos.io/blog/sharepoint-framework-basics-lesser-known-webpart-manifest-properties/)
 - Mar 8, 2022 - [Join me at 365EduCon Seattle &lpar;May 2022&rpar; for SharePoint Framework &amp; Azure Functions](https://www.voitanos.io/blog/joinme-365educon-spfest-seattle-2022/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
-## 📺 Latest episodes from [my channel](https://www.youtube.com/voitanosIo)
+## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
 - Mar 10, 2022 - [GoodbyeWorld&lpar;&rpar; - The last Microsoft Cloud Show episode](https://www.microsoftcloudshow.com/podcast/Episodes/450-the-last-microsoft-cloud-show-episode/)
 - Mar 8, 2022 - [Our Take on the State of Microsoft 365](https://www.microsoftcloudshow.com/podcast/Episodes/449-our-take-on-the-state-of-microsoft-365/)
