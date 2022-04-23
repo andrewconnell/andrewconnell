@@ -20,7 +20,7 @@ jobs:
         with:
           comment_tag_name: "MYBLOG-POST-LIST"
           feed_list: "https://www.andrewconnell.com/blog/rss.xml"
-          commit_message: "Update README with my latest blog posts"
+          commit_message: "🤖♻️ Update README with my latest blog posts"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'
@@ -29,16 +29,16 @@ jobs:
         with:
           feed_list: "https://www.voitanos.io/index.xml"
           comment_tag_name: "VOITANOSBLOG-POST-LIST"
-          commit_message: "Update README with Voitanos' latest blog posts"
+          commit_message: "🤖♻️ Update README with Voitanos' latest blog posts"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'
-      - name: Update Microsoft Cloud Show episodes
+      - name: Update Voitanos' YouTube videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXeym1FGW2uTlNjYqTCVo0g"
           comment_tag_name: "VOITANOSYOUTUBE-POST-LIST"
-          commit_message: "Update README with Voitanos' latest videos on YouTube channel"
+          commit_message: "🤖♻️ Update README with Voitanos' latest videos on YouTube channel"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'
