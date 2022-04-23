@@ -36,9 +36,9 @@ jobs:
       - name: Update Microsoft Cloud Show episodes
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.microsoftcloudshow.com/rss.xml"
-          comment_tag_name: "MSCLOUDSHOWBLOG-POST-LIST"
-          commit_message: "Update README with MSCLOUDSHOW's latest episodes"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXeym1FGW2uTlNjYqTCVo0g"
+          comment_tag_name: "VOITANOSYOUTUBE-POST-LIST"
+          commit_message: "Update README with Voitanos' latest videos on YouTube channel"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'

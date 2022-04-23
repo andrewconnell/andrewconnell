@@ -32,10 +32,10 @@ I live with my wife & two kids in Florida.
 - Mar 1, 2022 - [State of SharePoint Client-Side Dev - Winter 2022](https://www.voitanos.io/blog/state-of-sharepoint-client-side-dev-2022-march/)
 - Feb 22, 2022 - [SPFx Basics: Initializing components - constructor vs. onInit&lpar;&rpar;](https://www.voitanos.io/blog/initialize-sharepoint-framework-components-constructor-oninit/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
-## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
-<!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
+## 📺 Latest episodes from [my channel](https://www.youtube.com/voitanosIo)
+<!-- VOITANOSYOUTUBE-POST-LIST:START -->
 - Mar 10, 2022 - [GoodbyeWorld&lpar;&rpar; - The last Microsoft Cloud Show episode](https://www.microsoftcloudshow.com/podcast/Episodes/450-the-last-microsoft-cloud-show-episode/)
 - Mar 8, 2022 - [Our Take on the State of Microsoft 365](https://www.microsoftcloudshow.com/podcast/Episodes/449-our-take-on-the-state-of-microsoft-365/)
 - Mar 1, 2022 - [Our Take on the State of Microsoft Azure](https://www.microsoftcloudshow.com/podcast/Episodes/448-our-take-on-the-state-of-microsoft-azure/)
 - Feb 22, 2022 - [Office in Microsoft Teams, Microsoft 365 Pitches Legacy G-Suite Customers, and More Cloud News](https://www.microsoftcloudshow.com/podcast/Episodes/447-office-in-microsoft-teams-microsoft-365-pitches-legacy-g-suite-customer-and-more-cloud-news/)
-- Feb 15, 2022 - [Microsoft Tries to Make Nice With FTC and Microsoft Teams Saving the Environment](https://www.microsoftcloudshow.com/podcast/Episodes/446-microsoft-try-to-make-nice-with-ftc-and-teams-saving-the-environment/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
+- Feb 15, 2022 - [Microsoft Tries to Make Nice With FTC and Microsoft Teams Saving the Environment](https://www.microsoftcloudshow.com/podcast/Episodes/446-microsoft-try-to-make-nice-with-ftc-and-teams-saving-the-environment/)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
