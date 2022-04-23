@@ -34,8 +34,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest episodes from [my channel](https://www.youtube.com/voitanosIo)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
-- Mar 10, 2022 - [GoodbyeWorld&lpar;&rpar; - The last Microsoft Cloud Show episode](https://www.microsoftcloudshow.com/podcast/Episodes/450-the-last-microsoft-cloud-show-episode/)
-- Mar 8, 2022 - [Our Take on the State of Microsoft 365](https://www.microsoftcloudshow.com/podcast/Episodes/449-our-take-on-the-state-of-microsoft-365/)
-- Mar 1, 2022 - [Our Take on the State of Microsoft Azure](https://www.microsoftcloudshow.com/podcast/Episodes/448-our-take-on-the-state-of-microsoft-azure/)
-- Feb 22, 2022 - [Office in Microsoft Teams, Microsoft 365 Pitches Legacy G-Suite Customers, and More Cloud News](https://www.microsoftcloudshow.com/podcast/Episodes/447-office-in-microsoft-teams-microsoft-365-pitches-legacy-g-suite-customer-and-more-cloud-news/)
-- Feb 15, 2022 - [Microsoft Tries to Make Nice With FTC and Microsoft Teams Saving the Environment](https://www.microsoftcloudshow.com/podcast/Episodes/446-microsoft-try-to-make-nice-with-ftc-and-teams-saving-the-environment/)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Apr 23, 2022 - [&quot;Working with jQuery&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=nYapLSsTSbA)
+- Apr 23, 2022 - [&quot;Working with Angular&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=M8d3vrCFIes)
+- Apr 23, 2022 - [&quot;Working with React&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=vjSHVMDXJxA)
+- Apr 23, 2022 - [&quot;Extending &amp; customizing Gulp tasks&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=rXOA_rXuuIc)
+- Apr 23, 2022 - [&quot;Connecting SPFx components with dynamic data&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=D--_icxQIj0)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
