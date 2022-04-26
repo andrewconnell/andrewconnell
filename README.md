@@ -34,8 +34,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Apr 25, 2022 - [When was the SharePoint Framework &lpar;SPFx&rpar; released + major milestones?](https://www.youtube.com/watch?v=JdZBXUyPntc)
 - Apr 23, 2022 - [&quot;Working with jQuery&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=nYapLSsTSbA)
 - Apr 23, 2022 - [&quot;Working with Angular&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=M8d3vrCFIes)
 - Apr 23, 2022 - [&quot;Working with React&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=vjSHVMDXJxA)
-- Apr 23, 2022 - [&quot;Extending &amp; customizing Gulp tasks&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=rXOA_rXuuIc)
-- Apr 23, 2022 - [&quot;Connecting SPFx components with dynamic data&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=D--_icxQIj0)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Apr 23, 2022 - [&quot;Extending &amp; customizing Gulp tasks&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=rXOA_rXuuIc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
