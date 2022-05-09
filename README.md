@@ -1,7 +1,5 @@
 ## Hi, I'm Andrew 👋🏼
 
-> 👉 NOTE: this is a utility/proxy GitHub account - please see [@andrewconnell](/andrewconnell) or [@voitanos](/voitanos) for my primary accounts on Github
-
 I'm is a web developer with a focus on Microsoft Azure & Microsoft 365. I've received Microsoft’s MVP award every year since 2005 & has helped thousands of developers through the various courses I've authored & taught.
 
 I'm the founder of [Voitanos](https://www.voitanos.io) and is dedicated to delivering industry-leading on-demand video training to professional developers.
