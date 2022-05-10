@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- May 9, 2022 - [How to create Azure Function Apps with Bicep | step by step](https://www.youtube.com/watch?v=tzgB3cSUdNM)
 - Apr 28, 2022 - [Why did Microsoft create the SharePoint Framework &lpar;SPFx&rpar;?](https://www.youtube.com/watch?v=tk2oQmNw4Do)
 - Apr 25, 2022 - [When was the SharePoint Framework &lpar;SPFx&rpar; released + major milestones?](https://www.youtube.com/watch?v=JdZBXUyPntc)
 - Apr 23, 2022 - [&quot;Working with jQuery&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=nYapLSsTSbA)
-- Apr 23, 2022 - [&quot;Working with Angular&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=M8d3vrCFIes)
-- Apr 23, 2022 - [&quot;Working with React&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=vjSHVMDXJxA)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Apr 23, 2022 - [&quot;Working with Angular&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=M8d3vrCFIes)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
