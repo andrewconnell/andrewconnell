@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Jun 8, 2022 - [Microsoft Learning: Create interactive meeting apps for Microsoft Teams](https://www.andrewconnell.com/blog/mslearning-msteams-monetize-apps/)
 - May 17, 2022 - [How to: CI/CD/IaC for Azure Function Apps and GitHub Actions](https://www.andrewconnell.com/blog/how-to-cicd-iac-for-azure-function-apps-with-github-actions-step-by-step/)
 - May 17, 2022 - [How to create Azure Function Apps with Bicep | step by step](https://www.andrewconnell.com/blog/how-to-create-azure-function-apps-with-bicep-step-by-step/)
 - May 17, 2022 - [SPFx Basics: Configure NPM for a coporate web proxy](https://www.andrewconnell.com/blog/node-npm-fix-proxy-config/)
-- Apr 15, 2022 - [April 2022 course update - Mastering the SharePoint Framework](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-course-update-april-2022/)
-- Apr 13, 2022 - [SharePoint Online Modern App Catalog - April 2022](https://www.andrewconnell.com/blog/sharepoint-app-catalog-modernization-april-2022/)<!-- MYBLOG-POST-LIST:END -->
+- Apr 15, 2022 - [April 2022 course update - Mastering the SharePoint Framework](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-course-update-april-2022/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
