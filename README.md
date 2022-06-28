@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jun 20, 2022 - [Announce Voitanos Community on Discord](https://www.voitanos.io/blog/announce-voitanos-community-on-discord/)
 - May 9, 2022 - [How to: CI/CD/IaC for Azure Function Apps and GitHub Actions](https://www.voitanos.io/blog/how-to-cicd-iac-for-azure-function-apps-with-github-actions-step-by-step/)
 - May 9, 2022 - [How to create Azure Function Apps with Bicep | step by step](https://www.voitanos.io/blog/how-to-create-azure-function-apps-with-bicep-step-by-step/)
 - Apr 25, 2022 - [SPFx Basics: Configure NPM for a corporate web proxy](https://www.voitanos.io/blog/node-npm-fix-proxy-config/)
-- Apr 15, 2022 - [April 2022 course update - Mastering the SharePoint Framework](https://www.voitanos.io/blog/mastering-sharepoint-framework-course-update-april-2022/)
-- Apr 12, 2022 - [SharePoint Online Modern App Catalog - April 2022](https://www.voitanos.io/blog/sharepoint-app-catalog-modernization-april-2022/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Apr 15, 2022 - [April 2022 course update - Mastering the SharePoint Framework](https://www.voitanos.io/blog/mastering-sharepoint-framework-course-update-april-2022/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
