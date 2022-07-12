@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Jul 11, 2022 - [SharePoint Framework &lpar;SPFx&rpar; v1.15 and the attack of ESlint](https://www.andrewconnell.com/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/)
 - Jun 30, 2022 - [What’s new? Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15](https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/)
 - Jun 28, 2022 - [Microsoft Learning: Build and sell Microsoft Teams apps in Microsoft AppSource and the Microsoft Teams store](https://www.andrewconnell.com/blog/mslearning-msteams-monetize-apps/)
 - Jun 28, 2022 - [Announce Voitanos Community on Discord](https://www.andrewconnell.com/blog/announce-voitanos-community-on-discord/)
-- May 17, 2022 - [How to: CI/CD/IaC for Azure Function Apps and GitHub Actions](https://www.andrewconnell.com/blog/how-to-cicd-iac-for-azure-function-apps-with-github-actions-step-by-step/)
-- May 17, 2022 - [How to create Azure Function Apps with Bicep | step by step](https://www.andrewconnell.com/blog/how-to-create-azure-function-apps-with-bicep-step-by-step/)<!-- MYBLOG-POST-LIST:END -->
+- May 17, 2022 - [How to: CI/CD/IaC for Azure Function Apps and GitHub Actions](https://www.andrewconnell.com/blog/how-to-cicd-iac-for-azure-function-apps-with-github-actions-step-by-step/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
