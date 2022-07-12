@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jul 11, 2022 - [SharePoint Framework &lpar;SPFx&rpar; v1.15 - The Attack of ESLint!](https://www.youtube.com/watch?v=0XXm-zH8wes)
 - Jun 24, 2022 - [What’s new? Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15](https://www.youtube.com/watch?v=TMGB4JT-EMc)
 - Jun 20, 2022 - [Announcing the Voitanos community on Discord](https://www.youtube.com/watch?v=hVCwyimhNAc)
 - May 27, 2022 - [Who and Where can the SharePoint Framework &lpar;SPFx&rpar; be used?](https://www.youtube.com/watch?v=41W6Hj7QM4U)
-- May 27, 2022 - [How does the SharePoint Framework &lpar;SPFx&rpar; work?](https://www.youtube.com/watch?v=lb_vbTBfjXo)
-- May 10, 2022 - [How to: CI/CD/IaC for Azure Function Apps and GitHub Actions](https://www.youtube.com/watch?v=36R1pzPuLvs)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- May 27, 2022 - [How does the SharePoint Framework &lpar;SPFx&rpar; work?](https://www.youtube.com/watch?v=lb_vbTBfjXo)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
