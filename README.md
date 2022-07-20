@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jul 19, 2022 - [New show by Julie Turner &amp; Andrew Connell: CloudDev Clarity](https://www.voitanos.io/blog/introducing-new-show-clouddev-clarity/)
 - Jul 11, 2022 - [SharePoint Framework &lpar;SPFx&rpar; v1.15 and the attack of ESlint](https://www.voitanos.io/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/)
 - Jul 7, 2022 - [Mastering Sharepoint Framework Code Refresh July 2022](https://www.voitanos.io/blog/mastering-sharepoint-framework-code-refresh-july-2022/)
 - Jun 24, 2022 - [What’s new? Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15](https://www.voitanos.io/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/)
-- Jun 20, 2022 - [Announce Voitanos Community on Discord](https://www.voitanos.io/blog/announce-voitanos-community-on-discord/)
-- May 9, 2022 - [How to: CI/CD/IaC for Azure Function Apps and GitHub Actions](https://www.voitanos.io/blog/how-to-cicd-iac-for-azure-function-apps-with-github-actions-step-by-step/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jun 20, 2022 - [Announce Voitanos Community on Discord](https://www.voitanos.io/blog/announce-voitanos-community-on-discord/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
