@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Jul 26, 2022 - [How to set up reusable ESLint configs for SharePoint Framework &lpar;SPFx&rpar; projects](https://www.andrewconnell.com/blog/sharepoint-framework-spfx-reusable-eslint-configurations/)
 - Jul 19, 2022 - [New show by Julie Turner &amp; Andrew Connell: CloudDev Clarity](https://www.andrewconnell.com/blog/introducing-new-show-clouddev-clarity/)
 - Jul 11, 2022 - [SharePoint Framework &lpar;SPFx&rpar; v1.15 and the attack of ESlint](https://www.andrewconnell.com/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/)
 - Jun 30, 2022 - [What’s new? Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15](https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/)
-- Jun 28, 2022 - [Microsoft Learning: Build and sell Microsoft Teams apps in Microsoft AppSource and the Microsoft Teams store](https://www.andrewconnell.com/blog/mslearning-msteams-monetize-apps/)
-- Jun 28, 2022 - [Announce Voitanos Community on Discord](https://www.andrewconnell.com/blog/announce-voitanos-community-on-discord/)<!-- MYBLOG-POST-LIST:END -->
+- Jun 28, 2022 - [Microsoft Learning: Build and sell Microsoft Teams apps in Microsoft AppSource and the Microsoft Teams store](https://www.andrewconnell.com/blog/mslearning-msteams-monetize-apps/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
