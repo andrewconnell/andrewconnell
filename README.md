@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Aug 2, 2022 - [&quot;Property panes for client-side web parts&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=05gpWMmTIu4)
+- Aug 2, 2022 - [&quot;Client-side web parts&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=1soUa0Ke4cc)
 - Jul 26, 2022 - [How to set up reusable ESLint configs for SharePoint Framework &lpar;SPFx&rpar; projects](https://www.youtube.com/watch?v=PoogTL4kCZY)
 - Jul 19, 2022 - [CloudDev Clarity | Episode 1 - Introducing the show!](https://www.youtube.com/watch?v=rkcnqNoFQYw)
-- Jul 19, 2022 - [CloudDev Clarity | Episode 2 - Julie Turner intro](https://www.youtube.com/watch?v=gM-WPxvT1lo)
-- Jul 19, 2022 - [CloudDev Clarity | Episode 4 - REST vs SDK](https://www.youtube.com/watch?v=VNFj22Vc2bo)
-- Jul 19, 2022 - [CloudDev Clarity | Episode 3 - Andrew Connell intro](https://www.youtube.com/watch?v=8SACu9W1Owc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jul 19, 2022 - [CloudDev Clarity | Episode 2 - Julie Turner intro](https://www.youtube.com/watch?v=gM-WPxvT1lo)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
