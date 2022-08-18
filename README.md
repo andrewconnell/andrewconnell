@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Aug 17, 2022 - [CloudDev Clarity episode 6 - Our favorite Azure resources](https://www.andrewconnell.com/blog/clouddev-clarity-episode-006-favorite-azure-resources/)
 - Aug 3, 2022 - [Mastering the SharePoint Framework - August 2022 Refresh](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-august-2022-webparts-property-panes/)
 - Jul 26, 2022 - [How to set up reusable ESLint configs for SharePoint Framework &lpar;SPFx&rpar; projects](https://www.andrewconnell.com/blog/sharepoint-framework-spfx-reusable-eslint-configurations/)
 - Jul 19, 2022 - [New show by Julie Turner &amp; Andrew Connell: CloudDev Clarity](https://www.andrewconnell.com/blog/introducing-new-show-clouddev-clarity/)
-- Jul 11, 2022 - [SharePoint Framework &lpar;SPFx&rpar; v1.15 and the attack of ESlint](https://www.andrewconnell.com/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/)
-- Jun 30, 2022 - [What’s new? Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15](https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/)<!-- MYBLOG-POST-LIST:END -->
+- Jul 11, 2022 - [SharePoint Framework &lpar;SPFx&rpar; v1.15 and the attack of ESlint](https://www.andrewconnell.com/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
