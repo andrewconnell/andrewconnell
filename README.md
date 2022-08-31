@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Aug 30, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15.2 release](https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/)
 - Aug 22, 2022 - [New course lessons on SharePoint Framework &lpar;SPFx&rpar; form customizers](https://www.voitanos.io/blog/mastering-sharepoint-framework-new-course-lessons-list-form-customizer-extensions/)
 - Aug 17, 2022 - [CloudDev Clarity episode 6 - Our favorite Azure resources](https://www.voitanos.io/blog/clouddev-clarity-episode-006-favorite-azure-resources/)
 - Jul 26, 2022 - [How to set up reusable ESLint configs for SharePoint Framework &lpar;SPFx&rpar; projects](https://www.voitanos.io/blog/sharepoint-framework-spfx-reusable-eslint-configurations/)
-- Jul 19, 2022 - [New show by Julie Turner &amp; Andrew Connell: CloudDev Clarity](https://www.voitanos.io/blog/introducing-new-show-clouddev-clarity/)
-- Jul 11, 2022 - [SharePoint Framework &lpar;SPFx&rpar; v1.15 and the attack of ESlint](https://www.voitanos.io/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jul 19, 2022 - [New show by Julie Turner &amp; Andrew Connell: CloudDev Clarity](https://www.voitanos.io/blog/introducing-new-show-clouddev-clarity/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
