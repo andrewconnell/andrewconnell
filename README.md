@@ -21,8 +21,8 @@ I live with my wife & two kids in Florida.
 - Aug 30, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15.2 release](https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/)
 - Aug 22, 2022 - [New course lessons on SharePoint Framework &lpar;SPFx&rpar; form customizers](https://www.voitanos.io/blog/mastering-sharepoint-framework-new-course-lessons-list-form-customizer-extensions/)
 - Aug 17, 2022 - [CloudDev Clarity episode 6 - Our favorite Azure resources](https://www.voitanos.io/blog/clouddev-clarity-episode-006-favorite-azure-resources/)
-- Jul 26, 2022 - [How to set up reusable ESLint configs for SharePoint Framework &lpar;SPFx&rpar; projects](https://www.voitanos.io/blog/sharepoint-framework-spfx-reusable-eslint-configurations/)
-- Jul 19, 2022 - [New show by Julie Turner &amp; Andrew Connell: CloudDev Clarity](https://www.voitanos.io/blog/introducing-new-show-clouddev-clarity/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Aug 3, 2022 - [Mastering the SharePoint Framework - August 2022 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-august-2022-webparts-property-panes/)
+- Jul 26, 2022 - [How to set up reusable ESLint configs for SharePoint Framework &lpar;SPFx&rpar; projects](https://www.voitanos.io/blog/sharepoint-framework-spfx-reusable-eslint-configurations/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
