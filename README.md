@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Sep 6, 2022 - [How to register SPFx field customizers with the SharePoint REST API](https://www.andrewconnell.com/blog/sharepoint-framework-register-field-customizers-rest-api/)
 - Aug 30, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15.2 release](https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/)
 - Aug 23, 2022 - [New course lessons on SharePoint Framework &lpar;SPFx&rpar; form customizers](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-new-course-lessons-list-form-customizer-extensions/)
 - Aug 17, 2022 - [CloudDev Clarity episode 6 - Our favorite Azure resources](https://www.andrewconnell.com/blog/clouddev-clarity-episode-006-favorite-azure-resources/)
-- Aug 3, 2022 - [Mastering the SharePoint Framework - August 2022 Refresh](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-august-2022-webparts-property-panes/)
-- Jul 26, 2022 - [How to set up reusable ESLint configs for SharePoint Framework &lpar;SPFx&rpar; projects](https://www.andrewconnell.com/blog/sharepoint-framework-spfx-reusable-eslint-configurations/)<!-- MYBLOG-POST-LIST:END -->
+- Aug 3, 2022 - [Mastering the SharePoint Framework - August 2022 Refresh](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-august-2022-webparts-property-panes/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
