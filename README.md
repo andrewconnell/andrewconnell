@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Sep 7, 2022 - [CloudDev Clarity | Episode 7 - React, Angular, &amp; web frameworks: good, bad, and ugly!](https://www.voitanos.io/blog/clouddev-clarity-episode-007-react-angular-web-frameworks/)
 - Sep 6, 2022 - [How to register SPFx field customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api/)
 - Aug 30, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15.2 release](https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/)
 - Aug 22, 2022 - [New course lessons on SharePoint Framework &lpar;SPFx&rpar; form customizers](https://www.voitanos.io/blog/mastering-sharepoint-framework-new-course-lessons-list-form-customizer-extensions/)
-- Aug 17, 2022 - [CloudDev Clarity episode 6 - Our favorite Azure resources](https://www.voitanos.io/blog/clouddev-clarity-episode-006-favorite-azure-resources/)
-- Aug 3, 2022 - [Mastering the SharePoint Framework - August 2022 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-august-2022-webparts-property-panes/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Aug 17, 2022 - [CloudDev Clarity episode 6 - Our favorite Azure resources](https://www.voitanos.io/blog/clouddev-clarity-episode-006-favorite-azure-resources/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
