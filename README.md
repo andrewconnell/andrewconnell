@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Sep 14, 2022 - [Async/Await - The Key to Javascript Success](https://www.youtube.com/watch?v=Bydi3zQY9xI)
 - Sep 13, 2022 - [Learn What Javascript Classes Are and What They Do in This Quick Guide](https://www.youtube.com/watch?v=X8LB0EYGrwo)
 - Sep 12, 2022 - [Understanding JavaScript Arrow Functions: A Concise Guide](https://www.youtube.com/watch?v=IJ2K0MaZP0M)
 - Sep 12, 2022 - [CloudDev Clarity | Episode 8 - Introducing “Browser Native”](https://www.youtube.com/watch?v=PJOI6GachA4)
-- Sep 7, 2022 - [CloudDev Clarity | Episode 7 - React, Angular, &amp; web frameworks: good, bad, and ugly!](https://www.youtube.com/watch?v=sHMwAqFRT-I)
-- Sep 6, 2022 - [How to Register SPFx Field Customizers with the SharePoint REST API](https://www.youtube.com/watch?v=jUW7xkPFjbA)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Sep 7, 2022 - [CloudDev Clarity | Episode 7 - React, Angular, &amp; web frameworks: good, bad, and ugly!](https://www.youtube.com/watch?v=sHMwAqFRT-I)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
