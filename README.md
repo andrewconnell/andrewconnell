@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Sep 19, 2022 - [Register SPFx list form customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-list-form-customizers-rest-api/)
 - Sep 13, 2022 - [CloudDev Clarity | Episode 8 - Introducing Browser Native](https://www.voitanos.io/blog/clouddev-clarity-episode-008-introducing-browser-native/)
 - Sep 7, 2022 - [CloudDev Clarity | Episode 7 - React, Angular, &amp; web frameworks: good, bad, and ugly!](https://www.voitanos.io/blog/clouddev-clarity-episode-007-react-angular-web-frameworks/)
 - Sep 6, 2022 - [How to register SPFx field customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api/)
-- Aug 30, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15.2 release](https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/)
-- Aug 22, 2022 - [New course lessons on SharePoint Framework &lpar;SPFx&rpar; form customizers](https://www.voitanos.io/blog/mastering-sharepoint-framework-new-course-lessons-list-form-customizer-extensions/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Aug 30, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.15.2 release](https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
