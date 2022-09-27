@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Sep 26, 2022 - [HUGE Changes in the MS-600 Exam August 2022 Update!](https://www.youtube.com/watch?v=lTSpIp0zcQ8)
 - Sep 20, 2022 - [Register SPFx form customizers with SharePoint&#39;s REST API](https://www.youtube.com/watch?v=spPrK_prgXw)
 - Sep 16, 2022 - [Create more readable JavaScript strings with template literals &lpar;backticks&rpar;](https://www.youtube.com/watch?v=unImDI5zRj4)
 - Sep 15, 2022 - [How To Use CSS Selectors to Find HTML Elements using JavaScript](https://www.youtube.com/watch?v=fayj4VzTcWY)
-- Sep 14, 2022 - [Async/Await - The Key to JavaScript Success](https://www.youtube.com/watch?v=Bydi3zQY9xI)
-- Sep 13, 2022 - [Learn What JavaScript Classes Are and What They Do in This Quick Guide](https://www.youtube.com/watch?v=X8LB0EYGrwo)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Sep 14, 2022 - [Async/Await - The Key to JavaScript Success](https://www.youtube.com/watch?v=Bydi3zQY9xI)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
