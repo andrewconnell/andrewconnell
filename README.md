@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Oct 12, 2022 - [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.youtube.com/watch?v=SmfV11dpVhQ)
 - Oct 3, 2022 - [React Hooks - How to Use Them with the SharePoint Framework](https://www.youtube.com/watch?v=EzI-k5lqIng)
 - Sep 26, 2022 - [HUGE Changes in the MS-600 Exam August 2022 Update!](https://www.youtube.com/watch?v=lTSpIp0zcQ8)
 - Sep 20, 2022 - [Register SPFx form customizers with SharePoint&#39;s REST API](https://www.youtube.com/watch?v=spPrK_prgXw)
-- Sep 16, 2022 - [Create more readable JavaScript strings with template literals &lpar;backticks&rpar;](https://www.youtube.com/watch?v=unImDI5zRj4)
-- Sep 15, 2022 - [How To Use CSS Selectors to Find HTML Elements using JavaScript](https://www.youtube.com/watch?v=fayj4VzTcWY)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Sep 16, 2022 - [Create more readable JavaScript strings with template literals &lpar;backticks&rpar;](https://www.youtube.com/watch?v=unImDI5zRj4)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
