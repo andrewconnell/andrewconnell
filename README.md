@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Oct 11, 2022 - [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.voitanos.io/blog/sharepoint-framework-dynamic-property-pane-dropdown/)
 - Oct 3, 2022 - [How to use React hooks with the SharePoint Framework &lpar;SPFx&rpar;](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/)
 - Sep 26, 2022 - [MS-600 Exam - HUGE Changes in the August 2022 Update!](https://www.voitanos.io/blog/ms-600-august-2022-refresh/)
 - Sep 19, 2022 - [Register SPFx list form customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-list-form-customizers-rest-api/)
-- Sep 13, 2022 - [CloudDev Clarity | Episode 8 - Introducing Browser Native](https://www.voitanos.io/blog/clouddev-clarity-episode-008-introducing-browser-native/)
-- Sep 7, 2022 - [CloudDev Clarity | Episode 7 - React, Angular, &amp; web frameworks: good, bad, and ugly!](https://www.voitanos.io/blog/clouddev-clarity-episode-007-react-angular-web-frameworks/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Sep 13, 2022 - [CloudDev Clarity | Episode 8 - Introducing Browser Native](https://www.voitanos.io/blog/clouddev-clarity-episode-008-introducing-browser-native/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
