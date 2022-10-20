@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Oct 18, 2022 - [CloudDev Clarity | Episode 9: React Hooks](https://www.andrewconnell.com/blog/clouddev-clarity-episode-009-react-hooks/)
 - Oct 11, 2022 - [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.andrewconnell.com/blog/sharepoint-framework-dynamic-property-pane-dropdown/)
 - Oct 3, 2022 - [How to use React hooks with the SharePoint Framework &lpar;SPFx&rpar;](https://www.andrewconnell.com/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/)
 - Sep 26, 2022 - [MS-600 Exam - HUGE Changes in the August 2022 Update!](https://www.andrewconnell.com/blog/ms-600-august-2022-refresh/)
-- Sep 19, 2022 - [Register SPFx list form customizers with the SharePoint REST API](https://www.andrewconnell.com/blog/sharepoint-framework-register-list-form-customizers-rest-api/)
-- Sep 13, 2022 - [CloudDev Clarity | Episode 8 - Introducing Browser Native](https://www.andrewconnell.com/blog/clouddev-clarity-episode-008-introducing-browser-native/)<!-- MYBLOG-POST-LIST:END -->
+- Sep 19, 2022 - [Register SPFx list form customizers with the SharePoint REST API](https://www.andrewconnell.com/blog/sharepoint-framework-register-list-form-customizers-rest-api/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
