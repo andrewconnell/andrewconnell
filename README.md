@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Nov 22, 2022 - [MS-600 Exam Prep course - November 2022 refresh almost complete!](https://www.voitanos.io/blog/ms600-exam-prep-november-2022-refresh-2/)
 - Nov 17, 2022 - [Voitanos&#39; Black Friday Promotion Deals are back or 2022!](https://www.voitanos.io/blog/black-friday-cyber-monday-2022/)
 - Oct 27, 2022 - [MS-600 Exam Prep course - November 2022 update &amp; price changes](https://www.voitanos.io/blog/ms600-exam-prep-november-2022-refresh-1/)
 - Oct 18, 2022 - [CloudDev Clarity | Episode 9: React Hooks](https://www.voitanos.io/blog/clouddev-clarity-episode-009-react-hooks/)
-- Oct 11, 2022 - [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.voitanos.io/blog/sharepoint-framework-dynamic-property-pane-dropdown/)
-- Oct 3, 2022 - [How to use React hooks with the SharePoint Framework &lpar;SPFx&rpar;](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Oct 11, 2022 - [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.voitanos.io/blog/sharepoint-framework-dynamic-property-pane-dropdown/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
