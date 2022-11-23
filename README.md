@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Nov 22, 2022 - [Customize Microsoft 365 with SharePoint | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=NQF8IrIgnlc)
+- Nov 22, 2022 - [Build apps with Microsoft Graph | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=vj6_Q5kPXQ0)
+- Nov 22, 2022 - [Implement Microsoft identity | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=u38y8YT4L0U)
 - Oct 27, 2022 - [Extend Microsoft Teams | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=Or4eb0BXQnA)
-- Oct 27, 2022 - [Course Overview | preview of a chapter in our MS-600 Exam Prep course](https://www.youtube.com/watch?v=4u5wDXk2ICc)
-- Oct 19, 2022 - [React Hooks: Class Components vs. Functional Components &amp; Opinions on When &amp; Where to use them](https://www.youtube.com/watch?v=1fItx3o4k_Q)
-- Oct 12, 2022 - [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.youtube.com/watch?v=SmfV11dpVhQ)
-- Oct 3, 2022 - [React Hooks - How to Use Them with the SharePoint Framework](https://www.youtube.com/watch?v=EzI-k5lqIng)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Oct 27, 2022 - [Course Overview | preview of a chapter in our MS-600 Exam Prep course](https://www.youtube.com/watch?v=4u5wDXk2ICc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
