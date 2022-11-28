@@ -6,7 +6,7 @@ I'm the founder of [Voitanos](https://www.voitanos.io) and is dedicated to deliv
 
 I live with my wife & two kids in Florida.
 
-[![](./images/rss.svg)](https://www.andrewconnell.com) [![](./images/twitter.svg)](https://www.twitter.com/andrewconnell) <a rel="me" href="https://mastodon.cloud/@andrewconnell"><img src="./images/mastodon.svg" /></a> [![](./images/youtube.svg)](https://www.youtube.com/voitanosio) [![](./images/linkedin.svg)](https://www.linkedin.com/in/andrewconnell) [![](./images/instagram.svg)](https://www.instagram.com/andrewconnell1) [![](./images/mvp.svg)](https://mvp.microsoft.com/en-us/PublicProfile/21083?fullName=Andrew%20Connell)
+[![](./images/rss.svg)](https://www.andrewconnell.com) [![](./images/twitter.svg)](https://www.twitter.com/andrewconnell) <a rel="me" href="https://mastodon.world/@andrewconnell"><img src="./images/mastodon.svg" /></a> [![](./images/youtube.svg)](https://www.youtube.com/voitanosio) [![](./images/linkedin.svg)](https://www.linkedin.com/in/andrewconnell) [![](./images/instagram.svg)](https://www.instagram.com/andrewconnell1) [![](./images/mvp.svg)](https://mvp.microsoft.com/en-us/PublicProfile/21083?fullName=Andrew%20Connell)
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
