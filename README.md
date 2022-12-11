@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Dec 10, 2022 - [App design, integration, testing, deployment, and monitoring | preview from our MS-600 Exam Prep cou](https://www.youtube.com/watch?v=kLAXOKIRb6s)
 - Nov 22, 2022 - [Customize Microsoft 365 with SharePoint | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=NQF8IrIgnlc)
 - Nov 22, 2022 - [Build apps with Microsoft Graph | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=vj6_Q5kPXQ0)
 - Nov 22, 2022 - [Implement Microsoft identity | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=u38y8YT4L0U)
-- Oct 27, 2022 - [Extend Microsoft Teams | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=Or4eb0BXQnA)
-- Oct 27, 2022 - [Course Overview | preview of a chapter in our MS-600 Exam Prep course](https://www.youtube.com/watch?v=4u5wDXk2ICc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Oct 27, 2022 - [Extend Microsoft Teams | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=Or4eb0BXQnA)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
