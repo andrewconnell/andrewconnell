@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Dec 11, 2022 - [MS-600 Exam Prep course - new chapter added on custom apps](https://www.andrewconnell.com/blog/ms600-exam-prep-december-2022-refresh/)
 - Nov 22, 2022 - [MS-600 Exam Prep course - November 2022 refresh almost complete!](https://www.andrewconnell.com/blog/ms600-exam-prep-november-2022-refresh-2/)
 - Nov 5, 2022 - [Voitanos&#39; Black Friday Promotion Deals are back or 2022!](https://www.andrewconnell.com/blog/black-friday-cyber-monday-2022/)
 - Oct 28, 2022 - [MS-600 Exam Prep course - November 2022 update &amp; price changes](https://www.andrewconnell.com/blog/ms600-exam-prep-november-2022-refresh-1/)
-- Oct 18, 2022 - [CloudDev Clarity | Episode 9: React Hooks](https://www.andrewconnell.com/blog/clouddev-clarity-episode-009-react-hooks/)
-- Oct 11, 2022 - [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.andrewconnell.com/blog/sharepoint-framework-dynamic-property-pane-dropdown/)<!-- MYBLOG-POST-LIST:END -->
+- Oct 18, 2022 - [CloudDev Clarity | Episode 9: React Hooks](https://www.andrewconnell.com/blog/clouddev-clarity-episode-009-react-hooks/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
