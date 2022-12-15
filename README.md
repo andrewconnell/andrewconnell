@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Dec 13, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.16.1 release](https://www.voitanos.io/blog/sharepoint-framework-v1-16-1-whats-in-latest-update-of-spfx/)
 - Dec 13, 2022 - [Join me at 365EduCon Washington DC &lpar;June 2023&rpar; for SPFx, React, &amp; Azure](https://www.voitanos.io/blog/joinme-365educon-spfest-washingtondc-2023/)
 - Dec 11, 2022 - [MS-600 Exam Prep course - new chapter added on custom apps](https://www.voitanos.io/blog/ms600-exam-prep-december-2022-refresh/)
 - Nov 22, 2022 - [MS-600 Exam Prep course - November 2022 refresh almost complete!](https://www.voitanos.io/blog/ms600-exam-prep-november-2022-refresh-2/)
-- Nov 17, 2022 - [Voitanos&#39; Black Friday Promotion Deals are back or 2022!](https://www.voitanos.io/blog/black-friday-cyber-monday-2022/)
-- Oct 27, 2022 - [MS-600 Exam Prep course - November 2022 update &amp; price changes](https://www.voitanos.io/blog/ms600-exam-prep-november-2022-refresh-1/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Nov 17, 2022 - [Voitanos&#39; Black Friday Promotion Deals are back or 2022!](https://www.voitanos.io/blog/black-friday-cyber-monday-2022/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
