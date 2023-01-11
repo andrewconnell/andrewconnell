@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Jan 10, 2023 - [Microsoft Learning: Create Adaptive Card Extensions &lpar;ACE&rpar; for Microsoft Viva Connections](https://www.andrewconnell.com/blog/mslearning-sharepoint-create-adaptive-card-extensions-viva-connections/)
 - Dec 13, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.16.1 release](https://www.andrewconnell.com/blog/sharepoint-framework-v1-16-1-whats-in-latest-update-of-spfx/)
 - Dec 13, 2022 - [Join me at 365EduCon Washington DC &lpar;June 2023&rpar; for SPFx, React, &amp; Azure](https://www.andrewconnell.com/blog/joinme-365educon-spfest-washingtondc-2023/)
 - Dec 11, 2022 - [MS-600 Exam Prep course - new chapter added on custom apps](https://www.andrewconnell.com/blog/ms600-exam-prep-december-2022-refresh/)
-- Nov 22, 2022 - [MS-600 Exam Prep course - November 2022 refresh almost complete!](https://www.andrewconnell.com/blog/ms600-exam-prep-november-2022-refresh-2/)
-- Nov 5, 2022 - [Voitanos&#39; Black Friday Promotion Deals are back or 2022!](https://www.andrewconnell.com/blog/black-friday-cyber-monday-2022/)<!-- MYBLOG-POST-LIST:END -->
+- Nov 22, 2022 - [MS-600 Exam Prep course - November 2022 refresh almost complete!](https://www.andrewconnell.com/blog/ms600-exam-prep-november-2022-refresh-2/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
