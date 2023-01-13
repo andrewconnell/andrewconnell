@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jan 12, 2023 - [JavaScript Modules 101 – Still need to bundle your browser code?](https://www.youtube.com/watch?v=d-0uCi61rtg)
 - Jan 6, 2023 - [Master the Power of CSS Variables for your Modern Web Design](https://www.youtube.com/watch?v=zO1K4EZ3jgQ)
 - Jan 6, 2023 - [Join me at 365EduCon Washington DC &lpar;June 2023&rpar; to learn SPFx, React, &amp; Azure!](https://www.youtube.com/watch?v=HVPMfghbtZU)
 - Dec 13, 2022 - [What&#39;s New in v1.16 of the SharePoint Framework &lpar;SPFx&rpar; Latest Release?](https://www.youtube.com/watch?v=Sr44wXuo66o)
-- Dec 10, 2022 - [App design, testing, deployment, and monitoring | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=kLAXOKIRb6s)
-- Nov 22, 2022 - [Customize Microsoft 365 with SharePoint | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=NQF8IrIgnlc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Dec 10, 2022 - [App design, testing, deployment, and monitoring | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=kLAXOKIRb6s)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
