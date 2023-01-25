@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jan 24, 2023 - [Key observations &amp; takeaways - State of JavaScript &lpar;JS&rpar; Survey 2022](https://www.youtube.com/watch?v=0L-oi84H1i8)
 - Jan 19, 2023 - [JavaScript Variable Scopes Demystified -  var, let, and const](https://www.youtube.com/watch?v=q-OShyCzJXA)
 - Jan 19, 2023 - [Mastering the SharePoint Framework: Understand How the SPFx Works](https://www.youtube.com/watch?v=jzfu5Ytq_oI)
 - Jan 12, 2023 - [JavaScript Modules 101 – Still need to bundle your browser code?](https://www.youtube.com/watch?v=d-0uCi61rtg)
-- Jan 6, 2023 - [Master the Power of CSS Variables for your Modern Web Design](https://www.youtube.com/watch?v=zO1K4EZ3jgQ)
-- Jan 6, 2023 - [Join me at 365EduCon Washington DC &lpar;June 2023&rpar; to learn SPFx, React, &amp; Azure!](https://www.youtube.com/watch?v=HVPMfghbtZU)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jan 6, 2023 - [Master the Power of CSS Variables for your Modern Web Design](https://www.youtube.com/watch?v=zO1K4EZ3jgQ)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
