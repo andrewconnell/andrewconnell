@@ -20,7 +20,7 @@ I live with my wife & two kids in Florida.
 <!-- VOITANOSBLOG-POST-LIST:START -->
 - Feb 14, 2023 - [Microsoft Retired the MS-600 Exam &amp; Teams Developer Cert! 😱](https://www.voitanos.io/blog/microsoft-retired-ms600-microsoft-teams-developer-certification/)
 - Dec 13, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.16.1 release](https://www.voitanos.io/blog/sharepoint-framework-v1-16-1-whats-in-latest-update-of-spfx/)
-- Dec 13, 2022 - [Join me at 365EduCon Washington DC &lpar;June 2023&rpar; for SPFx, React, &amp; Azure](https://www.voitanos.io/blog/joinme-365educon-spfest-washingtondc-2023/)
+- Dec 13, 2022 - [Join me - 365EduCon Washington DC June - SPFx, React &amp; Azure](https://www.voitanos.io/blog/joinme-365educon-spfest-washingtondc-2023/)
 - Dec 11, 2022 - [MS-600 Exam Prep course - new chapter added on custom apps](https://www.voitanos.io/blog/ms600-exam-prep-december-2022-refresh/)
 - Nov 22, 2022 - [MS-600 Exam Prep course - November 2022 refresh almost complete!](https://www.voitanos.io/blog/ms600-exam-prep-november-2022-refresh-2/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
