@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Feb 22, 2023 - [&quot;Adaptive Card Extensions &lpar;ACEs&rpar;&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=7_aX1zGWAc0)
+- Feb 22, 2023 - [&quot;Logging &amp; debugging SPFx solutions&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=rRFO_bsuR34)
 - Feb 21, 2023 - [Web Components: A Beginner&#39;s Guide to Building Reusable HTML elements](https://www.youtube.com/watch?v=zmqGV_bQ21Y)
 - Feb 14, 2023 - [Why did Microsoft Retire the MS-600 Exam &amp; Teams Developer Cert?](https://www.youtube.com/watch?v=Q2vmwVXpobw)
-- Jan 24, 2023 - [The State of JavaScript 2022: A Deep Dive into the Survey Results](https://www.youtube.com/watch?v=0L-oi84H1i8)
-- Jan 19, 2023 - [JavaScript Variable Scopes Demystified -  var, let, and const](https://www.youtube.com/watch?v=q-OShyCzJXA)
-- Jan 19, 2023 - [Mastering the SharePoint Framework: Understand How the SPFx Works](https://www.youtube.com/watch?v=jzfu5Ytq_oI)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jan 24, 2023 - [The State of JavaScript 2022: A Deep Dive into the Survey Results](https://www.youtube.com/watch?v=0L-oi84H1i8)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
