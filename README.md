@@ -10,11 +10,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
+- Feb 27, 2023 - [New SPFx Chapter &amp; Course on Adaptive Card Extensions](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-sprint-29-adaptive-card-extensions/)
 - Feb 14, 2023 - [Microsoft Retired the MS-600 Exam &amp; Teams Developer Cert! 😱](https://www.andrewconnell.com/blog/microsoft-retired-ms600-microsoft-teams-developer-certification/)
 - Jan 10, 2023 - [Microsoft Learning: Create Adaptive Card Extensions &lpar;ACE&rpar; for Microsoft Viva Connections](https://www.andrewconnell.com/blog/mslearning-sharepoint-create-adaptive-card-extensions-viva-connections/)
 - Dec 13, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.16.1 release](https://www.andrewconnell.com/blog/sharepoint-framework-v1-16-1-whats-in-latest-update-of-spfx/)
-- Dec 13, 2022 - [Join me at 365EduCon Washington DC &lpar;June 2023&rpar; for SPFx, React, &amp; Azure](https://www.andrewconnell.com/blog/joinme-365educon-spfest-washingtondc-2023/)
-- Dec 11, 2022 - [MS-600 Exam Prep course - new chapter added on custom apps](https://www.andrewconnell.com/blog/ms600-exam-prep-december-2022-refresh/)<!-- MYBLOG-POST-LIST:END -->
+- Dec 13, 2022 - [Join me at 365EduCon Washington DC &lpar;June 2023&rpar; for SPFx, React, &amp; Azure](https://www.andrewconnell.com/blog/joinme-365educon-spfest-washingtondc-2023/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
