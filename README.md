@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Apr 3, 2023 - [SharePoint Framework Updated in SharePoint Server Subscription Edition](https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/)
 - Mar 27, 2023 - [New SharePoint Framework &lpar;SPFx&rpar; Courses on Web Parts, Extensions, &amp; ACEs](https://www.voitanos.io/blog/announce-new-sharepoint-framework-courses-webparts-extensions-aces/)
 - Feb 27, 2023 - [New SPFx Chapter &amp; Course on Adaptive Card Extensions](https://www.voitanos.io/blog/mastering-sharepoint-framework-sprint-29-adaptive-card-extensions/)
 - Feb 14, 2023 - [Microsoft Retired the MS-600 Exam &amp; Teams Developer Cert! 😱](https://www.voitanos.io/blog/microsoft-retired-ms600-microsoft-teams-developer-certification/)
-- Dec 13, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.16.1 release](https://www.voitanos.io/blog/sharepoint-framework-v1-16-1-whats-in-latest-update-of-spfx/)
-- Dec 13, 2022 - [Join me - 365EduCon Washington DC June - SPFx, React &amp; Azure](https://www.voitanos.io/blog/joinme-365educon-spfest-washingtondc-2023/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Dec 13, 2022 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.16.1 release](https://www.voitanos.io/blog/sharepoint-framework-v1-16-1-whats-in-latest-update-of-spfx/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
