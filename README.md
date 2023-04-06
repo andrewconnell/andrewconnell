@@ -26,8 +26,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Apr 5, 2023 - [Confusing SharePoint Framework Upgrade in SharePoint Server SE Feature Update 23H1](https://www.youtube.com/watch?v=sQhUTQkgL4s)
 - Mar 27, 2023 - [Save 20% | New SharePoint Framework Courses - Web Parts, Extensions &amp; ACE&#39;s](https://www.youtube.com/watch?v=FKvqQC8h17M)
 - Feb 24, 2023 - [What&#39;s To Love About Adaptive Cards for Microsoft Teams &amp; Viva?](https://www.youtube.com/watch?v=eGj-NzVihdk)
 - Feb 21, 2023 - [Web Components: A Beginner&#39;s Guide to Building Reusable HTML elements](https://www.youtube.com/watch?v=zmqGV_bQ21Y)
-- Feb 14, 2023 - [Why did Microsoft Retire the MS-600 Exam &amp; Teams Developer Cert?](https://www.youtube.com/watch?v=Q2vmwVXpobw)
-- Jan 24, 2023 - [The State of JavaScript 2022: A Deep Dive into the Survey Results](https://www.youtube.com/watch?v=0L-oi84H1i8)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Feb 14, 2023 - [Why did Microsoft Retire the MS-600 Exam &amp; Teams Developer Cert?](https://www.youtube.com/watch?v=Q2vmwVXpobw)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
