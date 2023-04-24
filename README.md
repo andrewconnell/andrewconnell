@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Apr 23, 2023 - [Start Learning Office Add-ins Development: Free Resources Guide](https://www.youtube.com/watch?v=q-I4Oumy3bQ)
 - Apr 16, 2023 - [Start Learning SharePoint &lpar;SPFx&rpar; App Development: Free Resources Guide](https://www.youtube.com/watch?v=-YAAziu0FKY)
 - Apr 10, 2023 - [sharepoint framework sfpx unboxing v1 17 release social](https://www.youtube.com/watch?v=tzNi11edZz0)
 - Apr 10, 2023 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.17 Release: What You Need to Know](https://www.youtube.com/watch?v=RTbgt5z3hUQ)
-- Apr 5, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Updated On-Prem! &lpar;SP Server Subscription Edition&rpar;](https://www.youtube.com/watch?v=sQhUTQkgL4s)
-- Mar 27, 2023 - [Save 20% | New SharePoint Framework Courses - Web Parts, Extensions &amp; ACE&#39;s](https://www.youtube.com/watch?v=FKvqQC8h17M)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Apr 5, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Updated On-Prem! &lpar;SP Server Subscription Edition&rpar;](https://www.youtube.com/watch?v=sQhUTQkgL4s)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
