@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- May 14, 2023 - [Start Learning Microsoft Graph App Development: Free Resources Guide](https://www.youtube.com/watch?v=fndf4dW66hw)
 - May 7, 2023 - [Start Learning Azure AD App Development: Free Resources Guide](https://www.youtube.com/watch?v=yi2za3FyUJc)
 - Apr 30, 2023 - [Start Learning Microsoft Teams App Development: Free Resources Guide](https://www.youtube.com/watch?v=HAqHg9FDL3M)
 - Apr 23, 2023 - [Start Learning Office Add-ins Development: Free Resources Guide](https://www.youtube.com/watch?v=q-I4Oumy3bQ)
-- Apr 16, 2023 - [Start Learning SharePoint &lpar;SPFx&rpar; App Development: Free Resources Guide](https://www.youtube.com/watch?v=-YAAziu0FKY)
-- Apr 10, 2023 - [sharepoint framework sfpx unboxing v1 17 release social](https://www.youtube.com/watch?v=tzNi11edZz0)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Apr 16, 2023 - [Start Learning SharePoint &lpar;SPFx&rpar; App Development: Free Resources Guide](https://www.youtube.com/watch?v=-YAAziu0FKY)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
