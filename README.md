@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- May 31, 2023 - [Microsoft 365 Developer News from Microsoft Build 2023](https://www.voitanos.io/blog/microsoft-365-developer-news-from-build-2023/)
 - May 2, 2023 - [Start Learning Microsoft 365 App Development - Free Guides](https://www.voitanos.io/blog/start-learning-microsoft-365-app-development/)
 - Apr 10, 2023 - [SharePoint Framework v1.17 - What&#39;s in the Latest Update of SPFx](https://www.voitanos.io/blog/sharepoint-framework-v1-17-whats-in-latest-update-of-spfx/)
 - Apr 3, 2023 - [SharePoint Framework Updated in SharePoint Server Subscription Edition](https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/)
-- Mar 27, 2023 - [New SharePoint Framework &lpar;SPFx&rpar; Courses on Web Parts, Extensions, &amp; ACEs](https://www.voitanos.io/blog/announce-new-sharepoint-framework-courses-webparts-extensions-aces/)
-- Feb 27, 2023 - [New SPFx Chapter &amp; Course on Adaptive Card Extensions](https://www.voitanos.io/blog/mastering-sharepoint-framework-sprint-29-adaptive-card-extensions/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Mar 27, 2023 - [New SharePoint Framework &lpar;SPFx&rpar; Courses on Web Parts, Extensions, &amp; ACEs](https://www.voitanos.io/blog/announce-new-sharepoint-framework-courses-webparts-extensions-aces/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
