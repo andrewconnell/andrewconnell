@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
-- May 14, 2023 - [Start Learning Microsoft Graph App Development: Free Resources Guide](https://www.youtube.com/watch?v=fndf4dW66hw)
-- May 7, 2023 - [Start Learning Azure AD App Development: Free Resources Guide](https://www.youtube.com/watch?v=yi2za3FyUJc)
-- Apr 30, 2023 - [Start Learning Microsoft Teams App Development: Free Resources Guide](https://www.youtube.com/watch?v=HAqHg9FDL3M)
-- Apr 23, 2023 - [Start Learning Office Add-ins Development: Free Resources Guide](https://www.youtube.com/watch?v=q-I4Oumy3bQ)
-- Apr 16, 2023 - [Start Learning SharePoint &lpar;SPFx&rpar; App Development: Free Resources Guide](https://www.youtube.com/watch?v=-YAAziu0FKY)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jun 23, 2023 - [SharePoint Framework - In Stefan Bauer&#39;s Own Words](https://www.youtube.com/watch?v=3orgw6tVR9U)
+- Jun 23, 2023 - [SharePoint Framework - In Eric Shupps&#39; Own Words](https://www.youtube.com/watch?v=4MAeGfZvadQ)
+- Jun 23, 2023 - [SharePoint Framework - In Mikael Svenson&#39; Own Words](https://www.youtube.com/watch?v=7uKQck2Jr1E)
+- Jun 23, 2023 - [SharePoint Framework - In Chris Kent&#39;s Own Words](https://www.youtube.com/watch?v=RzhaD6D5MKA)
+- Jun 23, 2023 - [SharePoint Framework - In Marc Anderson&#39; Own Words](https://www.youtube.com/watch?v=eTCUAaWBnTw)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
