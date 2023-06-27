@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jun 26, 2023 - [Common theme tripping up Microsoft 365 developers?](https://www.youtube.com/watch?v=vJ-cL_Uvdew)
 - Jun 23, 2023 - [SharePoint Framework - In Stefan Bauer&#39;s Own Words](https://www.youtube.com/watch?v=3orgw6tVR9U)
 - Jun 23, 2023 - [SharePoint Framework - In Eric Shupps&#39; Own Words](https://www.youtube.com/watch?v=4MAeGfZvadQ)
 - Jun 23, 2023 - [SharePoint Framework - In Mikael Svenson&#39; Own Words](https://www.youtube.com/watch?v=7uKQck2Jr1E)
-- Jun 23, 2023 - [SharePoint Framework - In Chris Kent&#39;s Own Words](https://www.youtube.com/watch?v=RzhaD6D5MKA)
-- Jun 23, 2023 - [SharePoint Framework - In Marc Anderson&#39; Own Words](https://www.youtube.com/watch?v=eTCUAaWBnTw)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jun 23, 2023 - [SharePoint Framework - In Chris Kent&#39;s Own Words](https://www.youtube.com/watch?v=RzhaD6D5MKA)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
