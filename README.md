@@ -17,11 +17,7 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
-- Jun 12, 2023 - [Navigate ESLint in SharePoint Framework &lpar;SPFx&rpar; Projects + Guidance](https://www.andrewconnell.com/blog/navigate-eslint-sharepoint-framework-projects-guidance/)
-- May 31, 2023 - [Microsoft 365 Developer News from Microsoft Build 2023](https://www.andrewconnell.com/blog/microsoft-365-developer-news-from-build-2023/)
-- May 2, 2023 - [Start Learning Microsoft 365 App Development - Free Guides](https://www.andrewconnell.com/blog/start-learning-microsoft-365-app-development/)
-- Apr 10, 2023 - [SharePoint Framework v1.17 - Whats in Latest Update of SPFx](https://www.andrewconnell.com/blog/sharepoint-framework-v1-17-whats-in-latest-update-of-spfx/)
-- Apr 3, 2023 - [SharePoint Framework Updated in SharePoint Server Subscription Edition](https://www.andrewconnell.com/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/)<!-- MYBLOG-POST-LIST:END -->
+- Jun 27, 2023 - [Subscribe to my newsletter or follow me on social media for the latest articles](https://www.andrewconnell.com/newsletter)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
