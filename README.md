@@ -25,8 +25,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Aug 8, 2023 - [Create Azure Functions using Azure Bicep 💪](https://www.youtube.com/watch?v=gXGAN1fn9Fc)
 - Aug 7, 2023 - [Unleashing the power of hooks - writing less React code](https://www.youtube.com/watch?v=SivMduLSYw4)
 - Aug 7, 2023 - [Unlocking the power of Adaptive Cards creating dynamic content experiences](https://www.youtube.com/watch?v=auS_NcXy34U)
 - Aug 6, 2023 - [React Hooks HowTo: Unleashing the power of side effects using useEffect&lpar;&rpar; Hook in React](https://www.youtube.com/watch?v=MmzQiqy4pg4)
-- Aug 5, 2023 - [Streamline Your Deployment Process with Azure Bicep &amp; Azure Functions](https://www.youtube.com/watch?v=zszlVlSvEXk)
-- Aug 4, 2023 - [Unleash the power of React with hooks - the game changer for building functional components](https://www.youtube.com/watch?v=ym9ABveju20)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Aug 5, 2023 - [Streamline Your Deployment Process with Azure Bicep &amp; Azure Functions](https://www.youtube.com/watch?v=zszlVlSvEXk)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
