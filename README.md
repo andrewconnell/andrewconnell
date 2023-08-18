@@ -25,8 +25,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Aug 17, 2023 - [Dropping the puck, my 19th Microsoft #MVPAward!](https://www.youtube.com/watch?v=wUpQmSm9qao)
+- Aug 17, 2023 - [Unlocking Azure Function apps full potential with Bicep deployment, slots and resource overviews](https://www.youtube.com/watch?v=04oIxwUYf_U)
 - Aug 16, 2023 - [Unleashing code creativity React &lpar;Hooks&rpar; vs Angular perspective shift](https://www.youtube.com/watch?v=2M-A7wQf6BY)
 - Aug 15, 2023 - [Unleashing the power of Adaptive Cards transforming user experiences](https://www.youtube.com/watch?v=THVTcI8W4Lw)
-- Aug 14, 2023 - [Hooks HowTo - The power of React mounting and unmounting components explained](https://www.youtube.com/watch?v=FRINo0wxmlU)
-- Aug 13, 2023 - [Unleash your SharePoint potential - breaking free from class components](https://www.youtube.com/watch?v=e7clRkNUKBk)
-- Aug 11, 2023 - [React Hooks: Class vs. Functional Components &amp; When &amp; Where to use Them?](https://www.youtube.com/watch?v=AUUpzzYuB4k)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Aug 14, 2023 - [Hooks HowTo - The power of React mounting and unmounting components explained](https://www.youtube.com/watch?v=FRINo0wxmlU)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
