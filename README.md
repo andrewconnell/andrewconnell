@@ -25,8 +25,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Aug 22, 2023 - [React Hooks HowTo: transforming class components to functional components made easy](https://www.youtube.com/watch?v=QeuKW5Auqas)
 - Aug 21, 2023 - [Azure Functions - Simplify deployment with Bicep boost productivity and reap benefits](https://www.youtube.com/watch?v=AJR6D3h3wXg)
 - Aug 20, 2023 - [Uncover the future of React development - a must see for React developers](https://www.youtube.com/watch?v=jZtmjyxuI-k)
 - Aug 19, 2023 - [Unleashing the power of Adaptive Cards for developers and Viva Connections](https://www.youtube.com/watch?v=NN2BxonNyT0)
-- Aug 18, 2023 - [Hooks How To: Surprising SPFx still generates react class- based components in 2022!](https://www.youtube.com/watch?v=VcaDYqKpgR4)
-- Aug 17, 2023 - [Dropping the puck, my 19th Microsoft #MVPAward!](https://www.youtube.com/watch?v=wUpQmSm9qao)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Aug 18, 2023 - [Hooks How To: Surprising SPFx still generates react class- based components in 2022!](https://www.youtube.com/watch?v=VcaDYqKpgR4)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
