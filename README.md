@@ -25,8 +25,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Aug 29, 2023 - [✨developers should try hooks in React ✨](https://www.youtube.com/watch?v=4mRIlYivAuY)
 - Aug 28, 2023 - [Maximizing efficiency in Adaptive Card design with host app previews](https://www.youtube.com/watch?v=f7lIzy7QN2k)
 - Aug 26, 2023 - [Unleashing the power of React v16.8 👉 say goodbye to classes](https://www.youtube.com/watch?v=gnm8ACLL_nM)
 - Aug 25, 2023 - [Unraveling the mystery understanding React hooks - the game changer](https://www.youtube.com/watch?v=euMHsmZm8Cw)
-- Aug 24, 2023 - [Revolutionizing state management with useState hook in React](https://www.youtube.com/watch?v=D9wbv75BWus)
-- Aug 23, 2023 - [Unleashing the power of Adaptive Card templating create dynamic card layouts](https://www.youtube.com/watch?v=A-GFV0dWR6s)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Aug 24, 2023 - [Revolutionizing state management with useState hook in React](https://www.youtube.com/watch?v=D9wbv75BWus)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
