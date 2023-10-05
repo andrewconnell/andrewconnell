@@ -25,8 +25,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Oct 4, 2023 - [Beware of the SharePoint SE 23H2 Feature Update SharePoint Framework Developers!](https://www.youtube.com/watch?v=SMLlK9IvX4U)
 - Sep 19, 2023 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.18 Release: What You Need to Know](https://www.youtube.com/watch?v=EzxNJpv0VQA)
 - Sep 19, 2023 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.18 Release: What You Need to Know](https://www.youtube.com/watch?v=ZvMBLpGYahw)
 - Aug 30, 2023 - [Revolutionizing React with hooks boosting efficiency and cutting code](https://www.youtube.com/watch?v=a7tDGmmaTLw)
-- Aug 29, 2023 - [✨developers should try hooks in React ✨](https://www.youtube.com/watch?v=4mRIlYivAuY)
-- Aug 28, 2023 - [Maximizing efficiency in Adaptive Card design with host app previews](https://www.youtube.com/watch?v=f7lIzy7QN2k)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Aug 29, 2023 - [✨developers should try hooks in React ✨](https://www.youtube.com/watch?v=4mRIlYivAuY)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
