@@ -27,6 +27,6 @@ I live with my wife & two kids in Florida.
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
 - Jan 2, 2024 - [Cost Conundrum: Teams Apps Can Outweigh Power Apps in Long-Term Value](https://www.youtube.com/watch?v=SnsXlFALFEY)
 - Dec 30, 2023 - [Build Web Apps - not Microsoft 365, Teams, or SPFx Apps](https://www.youtube.com/watch?v=UfKhezxq7VY)
-- Dec 26, 2023 - [SharePoint Embedded: Overview and Example Scenarios](https://www.youtube.com/watch?v=gEU8NxNWLCI)
+- Dec 26, 2023 - [Benefits Of Sharepoint Embedded: An Overview With Examples](https://www.youtube.com/watch?v=gEU8NxNWLCI)
 - Dec 12, 2023 - [SharePoint Add-in model retired - What you need to know!](https://www.youtube.com/watch?v=MguYAPaCjdE)
 - Oct 4, 2023 - [Beware of the SharePoint SE 23H2 Feature Update SharePoint Framework Developers!](https://www.youtube.com/watch?v=SMLlK9IvX4U)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
