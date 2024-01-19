@@ -25,8 +25,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jan 18, 2024 - [Navigate ESLint in SharePoint Framework &lpar;SPFx&rpar; Projects + Guidance](https://www.youtube.com/watch?v=khtjxJFJLlY)
 - Jan 17, 2024 - [SharePoint Framework Office Hours - February 2024](https://www.youtube.com/watch?v=bUoh6err1Y8)
 - Jan 11, 2024 - [Why React Hooks: Enhancing Code Performance and Readability](https://www.youtube.com/watch?v=Qy6aRjXpGL4)
 - Jan 8, 2024 - [Zero to Hero: Complete Tutorial on Building SharePoint Embedded Apps](https://www.youtube.com/watch?v=GbHX4ZEe5UY)
-- Jan 2, 2024 - [Don&#39;t Fall Into The Cost Conundrum: Why Teams Apps Can Bring More Long-term Value Than Power Apps](https://www.youtube.com/watch?v=SnsXlFALFEY)
-- Dec 30, 2023 - [Build Web Apps - not Microsoft 365, Teams, or SPFx Apps](https://www.youtube.com/watch?v=UfKhezxq7VY)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jan 2, 2024 - [Don&#39;t Fall Into The Cost Conundrum: Why Teams Apps Can Bring More Long-term Value Than Power Apps](https://www.youtube.com/watch?v=SnsXlFALFEY)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
