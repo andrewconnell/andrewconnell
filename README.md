@@ -25,8 +25,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- May 30, 2024 - [Unboxing the SharePoint Framework &lpar;SPFx&rpar; v1.19 Release: What You Need to Know](https://www.youtube.com/watch?v=-b9sOU2RPGI)
 - May 22, 2024 - [Microsoft Teams AppDev Accelerator - Jono Duncan Testimonial](https://www.youtube.com/watch?v=q2QZabP3oBQ)
 - May 16, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - May 2024](https://www.youtube.com/watch?v=MyOjZN4EzGY)
 - May 15, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - June 2024](https://www.youtube.com/watch?v=rAVxxPlvBw0)
-- Apr 18, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - April 2024](https://www.youtube.com/watch?v=9b2M1wj3qBM)
-- Mar 21, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - March 2024](https://www.youtube.com/watch?v=yLUjpjrbJ7A)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Apr 18, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - April 2024](https://www.youtube.com/watch?v=9b2M1wj3qBM)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
