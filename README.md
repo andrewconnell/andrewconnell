@@ -25,7 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
-- Jun 27, 2023 - [Subscribe to the newsletter or follow Voitanos on social media for the latest articles](https://www.voitanos.io/newsletter)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jun 17, 2024 - [How to Fix the SPFx Error: &#39;Cannot find module node:os&#39;](https://www.voitanos.io/blog/fix-spfx-eror-cannot-find-module/?utm_medium=rss&utm_source=voitanos.io)
+- Jun 12, 2024 - [Join me - ESPC in Stockholm in December - Microsoft 365 Dev](https://www.voitanos.io/blog/joinme-espc-stockholm-2024/?utm_medium=rss&utm_source=voitanos.io)
+- Jan 18, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2016](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2016/?utm_medium=rss&utm_source=voitanos.io)
+- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server SE](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-subscription-edition/?utm_medium=rss&utm_source=voitanos.io)
+- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2019](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2019/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
