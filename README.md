@@ -17,7 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
-- Jun 27, 2023 - [Subscribe to my newsletter or follow me on social media for the latest articles](https://www.andrewconnell.com/newsletter)<!-- MYBLOG-POST-LIST:END -->
+- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server SE](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-subscription-edition/?utm_medium=rss&utm_source=andrewconnell.com)
+- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2019](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2019/?utm_medium=rss&utm_source=andrewconnell.com)
+- Oct 6, 2020 - [What is the SharePoint Framework &lpar;SPFx&rpar;?](https://www.voitanos.io/blog/spfx-5w1h-what-is-the-sharepoint-framework/?utm_medium=rss&utm_source=andrewconnell.com)
+- Oct 6, 2020 - [SharePoint Framework Five &quot;W&quot;s &amp; 1 &quot;H&quot; Answered - Overview](https://www.voitanos.io/blog/spfx-5w1h-sharepoint-framework-what-who-where-when-why-how-overview/?utm_medium=rss&utm_source=andrewconnell.com)
+- Aug 17, 2019 - [Using Angular Elements in SharePoint Framework Projects](https://www.voitanos.io/blog/using-angular-elements-in-sharepoint-framework-projects/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
