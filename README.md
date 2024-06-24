@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
-- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server SE](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-subscription-edition/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2019](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2019/?utm_medium=rss&utm_source=andrewconnell.com)
-- Oct 6, 2020 - [What is the SharePoint Framework &lpar;SPFx&rpar;?](https://www.voitanos.io/blog/spfx-5w1h-what-is-the-sharepoint-framework/?utm_medium=rss&utm_source=andrewconnell.com)
-- Oct 6, 2020 - [SharePoint Framework Five &quot;W&quot;s &amp; 1 &quot;H&quot; Answered - Overview](https://www.voitanos.io/blog/spfx-5w1h-sharepoint-framework-what-who-where-when-why-how-overview/?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 17, 2019 - [Using Angular Elements in SharePoint Framework Projects](https://www.voitanos.io/blog/using-angular-elements-in-sharepoint-framework-projects/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Jun 17, 2024 - [How to Fix the SPFx Error: &#39;Cannot find module node:os&#39;](https://www.voitanos.io/blog/fix-spfx-eror-cannot-find-module/?utm_medium=rss&utm_source=andrewconnell.com)
+- Jun 12, 2024 - [Join me - ESPC in Stockholm in December - Microsoft 365 Dev](https://www.voitanos.io/blog/joinme-espc-stockholm-2024/?utm_medium=rss&utm_source=andrewconnell.com)
+- Jun 4, 2024 - [Join me - TechCon365 in Washington DC in August - M365 Dev](https://www.voitanos.io/blog/joinme-techcon365-washingtondc-2024/?utm_medium=rss&utm_source=andrewconnell.com)
+- May 30, 2024 - [Setting the SharePoint Framework Hosted Workbench Test Site](https://www.voitanos.io/blog/set-spfx-hosted-workbench-test-site/?utm_medium=rss&utm_source=andrewconnell.com)
+- May 27, 2024 - [The Microsoft 365 Full-Stack Developer&#39;s Recap to Build 2024](https://www.voitanos.io/blog/m365-fullstack-developer-recap-microsoft-build-2024/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
