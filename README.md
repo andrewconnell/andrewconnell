@@ -27,9 +27,9 @@ I live with my wife & two kids in Florida.
 <!-- VOITANOSBLOG-POST-LIST:START -->
 - Jun 17, 2024 - [How to Fix the SPFx Error: &#39;Cannot find module node:os&#39;](https://www.voitanos.io/blog/fix-spfx-eror-cannot-find-module/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 12, 2024 - [Join me - ESPC in Stockholm in December - Microsoft 365 Dev](https://www.voitanos.io/blog/joinme-espc-stockholm-2024/?utm_medium=rss&utm_source=voitanos.io)
-- Jan 18, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2016](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2016/?utm_medium=rss&utm_source=voitanos.io)
-- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server SE](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-subscription-edition/?utm_medium=rss&utm_source=voitanos.io)
-- Jan 11, 2022 - [Definitive guide for developers: SharePoint Framework for SharePoint Server 2019](https://www.voitanos.io/blog/definitive-guide-sharepoint-framework-sharepoint-server-2019/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jun 4, 2024 - [Join me - TechCon365 in Washington DC in August - M365 Dev](https://www.voitanos.io/blog/joinme-techcon365-washingtondc-2024/?utm_medium=rss&utm_source=voitanos.io)
+- May 30, 2024 - [Setting the SharePoint Framework Hosted Workbench Test Site](https://www.voitanos.io/blog/set-spfx-hosted-workbench-test-site/?utm_medium=rss&utm_source=voitanos.io)
+- May 27, 2024 - [The Microsoft 365 Full-Stack Developer&#39;s Recap to Build 2024](https://www.voitanos.io/blog/m365-fullstack-developer-recap-microsoft-build-2024/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
