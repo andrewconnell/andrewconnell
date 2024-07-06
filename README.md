@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Jul 5, 2024 - [Secure SPFx Solutions in a Post Isolated Web Part Retirement](https://www.voitanos.io/blog/secure-spfx-solutions-post-domain-isolated-webpart-retirement/?utm_medium=rss&utm_source=andrewconnell.com)
 - Jun 25, 2024 - [Multiple Node.js Installs with NVM and Global Packages](https://www.voitanos.io/blog/multiple-node-installs-nvm-global-packages/?utm_medium=rss&utm_source=andrewconnell.com)
 - Jun 17, 2024 - [How to Fix the SPFx Error: &#39;Cannot find module node:os&#39;](https://www.voitanos.io/blog/fix-spfx-eror-cannot-find-module/?utm_medium=rss&utm_source=andrewconnell.com)
 - Jun 12, 2024 - [Join me - ESPC in Stockholm in December - Microsoft 365 Dev](https://www.voitanos.io/blog/joinme-espc-stockholm-2024/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jun 4, 2024 - [Join me - TechCon365 in Washington DC in August - M365 Dev](https://www.voitanos.io/blog/joinme-techcon365-washingtondc-2024/?utm_medium=rss&utm_source=andrewconnell.com)
-- May 30, 2024 - [Setting the SharePoint Framework Hosted Workbench Test Site](https://www.voitanos.io/blog/set-spfx-hosted-workbench-test-site/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Jun 4, 2024 - [Join me - TechCon365 in Washington DC in August - M365 Dev](https://www.voitanos.io/blog/joinme-techcon365-washingtondc-2024/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
