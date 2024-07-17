@@ -29,8 +29,8 @@ I live with my wife & two kids in Florida.
 - Jul 15, 2024 - [Klarna + Purchase Power Parity Support and Trademarked!](https://www.voitanos.io/blog/announce-new-payment-options-purchase-power-parity-trademarked/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 15, 2024 - [Andrew Connell - Microsoft MVP Award Renewed - 20 Years](https://www.voitanos.io/blog/microsoft-mvp-renewed-20th-year/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 9, 2024 - [Microsoft Teams App Development OnRamp - FREE Email Course](https://www.voitanos.io/blog/microsoft-teams-appdev-onramp-free-email-course/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 5, 2024 - [Secure SPFx Solutions in a Post Isolated Web Part Retirement](https://www.voitanos.io/blog/secure-spfx-solutions-post-domain-isolated-webpart-retirement/?utm_medium=rss&utm_source=voitanos.io)
-- Jun 25, 2024 - [Multiple Node.js Installs with NVM and Global Packages](https://www.voitanos.io/blog/multiple-node-installs-nvm-global-packages/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jul 9, 2024 - [Opinion - SharePoint Framework Isn&#39;t Ideal for Microsoft Teams Tabs](https://www.voitanos.io/blog/why-native-msteams-appdev-vs-spfx-for-teams/?utm_medium=rss&utm_source=voitanos.io)
+- Jul 5, 2024 - [Secure SPFx Solutions in a Post Isolated Web Part Retirement](https://www.voitanos.io/blog/secure-spfx-solutions-post-domain-isolated-webpart-retirement/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
