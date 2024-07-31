@@ -26,11 +26,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jul 23, 2024 - [Port Retiring Office 365 Connectors to Microsoft Teams Bots](https://www.voitanos.io/blog/port-office-365-connector-teams-bot/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 22, 2024 - [Microsoft Teams AppDev Accelerator 2024 Q3 - Open Enrollment](https://www.voitanos.io/blog/announce-msteams-appdev-accelerator-2024q3-open-enrollment/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 15, 2024 - [Klarna + Purchase Power Parity Support and Trademarked!](https://www.voitanos.io/blog/announce-new-payment-options-purchase-power-parity-trademarked/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 15, 2024 - [Andrew Connell - Microsoft MVP Award Renewed - 20 Years](https://www.voitanos.io/blog/microsoft-mvp-renewed-20th-year/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 9, 2024 - [Microsoft Teams App Development OnRamp - FREE Email Course](https://www.voitanos.io/blog/microsoft-teams-appdev-onramp-free-email-course/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 9, 2024 - [Opinion - SharePoint Framework Isn&#39;t Ideal for Microsoft Teams Tabs](https://www.voitanos.io/blog/why-native-msteams-appdev-vs-spfx-for-teams/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jul 9, 2024 - [Microsoft Teams App Development OnRamp - FREE Email Course](https://www.voitanos.io/blog/microsoft-teams-appdev-onramp-free-email-course/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
