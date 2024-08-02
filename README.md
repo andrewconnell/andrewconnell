@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Jul 23, 2024 - [Port Retiring Office 365 Connectors to Microsoft Teams Bots](https://www.voitanos.io/blog/port-office-365-connector-teams-bot/?utm_medium=rss&utm_source=andrewconnell.com)
 - Jul 15, 2024 - [Klarna + Purchase Power Parity Support and Trademarked!](https://www.voitanos.io/blog/announce-new-payment-options-purchase-power-parity-trademarked/?utm_medium=rss&utm_source=andrewconnell.com)
 - Jul 15, 2024 - [Andrew Connell - Microsoft MVP Award Renewed - 20 Years](https://www.voitanos.io/blog/microsoft-mvp-renewed-20th-year/?utm_medium=rss&utm_source=andrewconnell.com)
 - Jul 9, 2024 - [Microsoft Teams App Development OnRamp - FREE Email Course](https://www.voitanos.io/blog/microsoft-teams-appdev-onramp-free-email-course/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jul 9, 2024 - [Opinion - SharePoint Framework Isn&#39;t Ideal for Microsoft Teams Tabs](https://www.voitanos.io/blog/why-native-msteams-appdev-vs-spfx-for-teams/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jul 5, 2024 - [Secure SPFx Solutions in a Post Isolated Web Part Retirement](https://www.voitanos.io/blog/secure-spfx-solutions-post-domain-isolated-webpart-retirement/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Jul 9, 2024 - [Opinion - SharePoint Framework Isn&#39;t Ideal for Microsoft Teams Tabs](https://www.voitanos.io/blog/why-native-msteams-appdev-vs-spfx-for-teams/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
