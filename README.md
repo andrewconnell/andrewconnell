@@ -26,11 +26,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Aug 11, 2024 - [Join me at TechCon365 Dallas in November - Teams + Copilot](https://www.voitanos.io/blog/joinme-techcon365-dallas-2024/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 7, 2024 - [Microsoft 365 Developer Podcast - SharePoint Embedded](https://www.voitanos.io/blog/microsoft-365-dev-podcast-episode-315-sharepoint-embedded/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 2, 2024 - [Validate Microsoft Entra ID generated OAuth tokens](https://www.voitanos.io/blog/validating-entra-id-generated-oauth-tokens/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 23, 2024 - [Port Retiring Office 365 Connectors to Microsoft Teams Bots](https://www.voitanos.io/blog/port-office-365-connector-teams-bot/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 22, 2024 - [Microsoft Teams AppDev Accelerator 2024 Q3 - Open Enrollment](https://www.voitanos.io/blog/announce-msteams-appdev-accelerator-2024q3-open-enrollment/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 15, 2024 - [Klarna + Purchase Power Parity Support and Trademarked!](https://www.voitanos.io/blog/announce-new-payment-options-purchase-power-parity-trademarked/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jul 22, 2024 - [Microsoft Teams AppDev Accelerator 2024 Q3 - Open Enrollment](https://www.voitanos.io/blog/announce-msteams-appdev-accelerator-2024q3-open-enrollment/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
