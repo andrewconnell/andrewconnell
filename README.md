@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Aug 16, 2024 - [SharePoint Embedded September 2024 Roadshow - New York &amp; London](https://www.voitanos.io/blog/sharepoint-embedded-2024-roadshow/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 11, 2024 - [Join me at TechCon365 Dallas in November - Teams + Copilot](https://www.voitanos.io/blog/joinme-techcon365-dallas-2024/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 7, 2024 - [Microsoft 365 Developer Podcast - SharePoint Embedded](https://www.voitanos.io/blog/microsoft-365-dev-podcast-episode-315-sharepoint-embedded/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 2, 2024 - [Validate Microsoft Entra ID generated OAuth tokens](https://www.voitanos.io/blog/validating-entra-id-generated-oauth-tokens/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jul 23, 2024 - [Port Retiring Office 365 Connectors to Microsoft Teams Bots](https://www.voitanos.io/blog/port-office-365-connector-teams-bot/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jul 15, 2024 - [Klarna + Purchase Power Parity Support and Trademarked!](https://www.voitanos.io/blog/announce-new-payment-options-purchase-power-parity-trademarked/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Jul 23, 2024 - [Port Retiring Office 365 Connectors to Microsoft Teams Bots](https://www.voitanos.io/blog/port-office-365-connector-teams-bot/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
