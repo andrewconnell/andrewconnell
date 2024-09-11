@@ -26,11 +26,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Sep 3, 2024 - [Webpack Magic in SPFx: Optimize Bundles with Code Splitting](https://www.voitanos.io/blog/sharepoint-framework-optimize-webpack-code-splitting/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 29, 2024 - [SharePoint Embedded - Interviewed on the M365 Voice Podcast](https://www.voitanos.io/blog/sharepoint-embedded-m365voice-podcast/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 27, 2024 - [Troubleshoot TTK issues with Node, Azure Functions, &amp; macOS](https://www.voitanos.io/blog/troubleshoot-teams-toolkit-azure-functions-node-macos/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 16, 2024 - [SharePoint Embedded September 2024 Roadshow - New York &amp; London](https://www.voitanos.io/blog/sharepoint-embedded-2024-roadshow/?utm_medium=rss&utm_source=voitanos.io)
-- Aug 11, 2024 - [Join me at TechCon365 Dallas in November - Teams + Copilot](https://www.voitanos.io/blog/joinme-techcon365-dallas-2024/?utm_medium=rss&utm_source=voitanos.io)
-- Aug 7, 2024 - [Microsoft 365 Developer Podcast - SharePoint Embedded](https://www.voitanos.io/blog/microsoft-365-dev-podcast-episode-315-sharepoint-embedded/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Aug 11, 2024 - [Join me at TechCon365 Dallas in November - Teams + Copilot](https://www.voitanos.io/blog/joinme-techcon365-dallas-2024/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
