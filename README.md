@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Sep 3, 2024 - [Webpack Magic in SPFx: Optimize Bundles with Code Splitting](https://www.voitanos.io/blog/sharepoint-framework-optimize-webpack-code-splitting/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 27, 2024 - [Troubleshoot Teams Toolkit Azure Functions Node Macos](https://www.voitanos.io/blog/troubleshoot-teams-toolkit-azure-functions-node-macos/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 16, 2024 - [SharePoint Embedded September 2024 Roadshow - New York &amp; London](https://www.voitanos.io/blog/sharepoint-embedded-2024-roadshow/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 11, 2024 - [Join me at TechCon365 Dallas in November - Teams + Copilot](https://www.voitanos.io/blog/joinme-techcon365-dallas-2024/?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 7, 2024 - [Microsoft 365 Developer Podcast - SharePoint Embedded](https://www.voitanos.io/blog/microsoft-365-dev-podcast-episode-315-sharepoint-embedded/?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 2, 2024 - [Validate Microsoft Entra ID generated OAuth tokens](https://www.voitanos.io/blog/validating-entra-id-generated-oauth-tokens/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Aug 7, 2024 - [Microsoft 365 Developer Podcast - SharePoint Embedded](https://www.voitanos.io/blog/microsoft-365-dev-podcast-episode-315-sharepoint-embedded/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
