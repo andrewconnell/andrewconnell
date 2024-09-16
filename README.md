@@ -34,8 +34,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Sep 15, 2024 - [Webinar - Microsoft Teams App Dev Overview - September 13, 2024](https://www.youtube.com/watch?v=tldD1py1dqc)
 - Aug 22, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - August 2024](https://www.youtube.com/watch?v=xGsnQfolI6Q)
 - Aug 21, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - September 2024](https://www.youtube.com/watch?v=R7PUWid4kZE)
 - Jul 24, 2024 - [Microsoft Graph Webhooks - What, Why, How &amp; Best Practices](https://www.youtube.com/watch?v=2E3DIjF_BKs)
-- Jul 19, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - July 2024](https://www.youtube.com/watch?v=ITsrpeAua2g)
-- Jul 12, 2024 - [ANOTHER SharePoint Framework Retirement? Domain Isolated Web Parts?!?](https://www.youtube.com/watch?v=4cMLFpWB6bs)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jul 19, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - July 2024](https://www.youtube.com/watch?v=ITsrpeAua2g)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
