@@ -34,8 +34,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Sep 23, 2024 - [Validate Microsoft Entra ID generated OAuth tokens](https://www.youtube.com/watch?v=iEEGqkBEYm0)
 - Sep 20, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - September 2024](https://www.youtube.com/watch?v=R7PUWid4kZE)
 - Sep 19, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - October 2024](https://www.youtube.com/watch?v=VUEDgJ1VcPk)
-- Sep 18, 2024 - [Webpack Magic in SPFx: Optimize Bundles with Code Splitting](https://www.youtube.com/watch?v=cn5ZXrg3ct8)
-- Sep 17, 2024 - [Webinar - Microsoft Teams App Dev Overview - September 16, 2024](https://www.youtube.com/watch?v=Z5zVfwnTUno)
-- Sep 15, 2024 - [Webinar - Microsoft Teams App Dev Overview - September 13, 2024](https://www.youtube.com/watch?v=tldD1py1dqc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Sep 18, 2024 - [Optimize your SPFx bundles with this single-comment webpack trick!](https://www.youtube.com/watch?v=cn5ZXrg3ct8)
+- Sep 17, 2024 - [Webinar - Microsoft Teams App Dev Overview - September 16, 2024](https://www.youtube.com/watch?v=Z5zVfwnTUno)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
