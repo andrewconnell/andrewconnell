@@ -38,4 +38,4 @@ I live with my wife & two kids in Florida.
 - Sep 23, 2024 - [Validate Microsoft Entra ID generated OAuth tokens](https://www.youtube.com/watch?v=iEEGqkBEYm0)
 - Sep 20, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - September 2024](https://www.youtube.com/watch?v=R7PUWid4kZE)
 - Sep 19, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - October 2024](https://www.youtube.com/watch?v=VUEDgJ1VcPk)
-- Sep 18, 2024 - [Webpack Magic in SPFx: Optimize Bundles with Code Splitting](https://www.youtube.com/watch?v=cn5ZXrg3ct8)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Sep 18, 2024 - [Optimize your SPFx bundles with this single-comment webpack trick!](https://www.youtube.com/watch?v=cn5ZXrg3ct8)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
