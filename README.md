@@ -26,11 +26,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Nov 4, 2024 - [Concepts Made Clear: Introducing the New Voitanos Brand](https://www.voitanos.io/blog/concepts-made-clear-introducing-the-new-voitanos-brand/?utm_medium=rss&utm_source=voitanos.io)
 - Oct 29, 2024 - [Microsoft 365 Copilot Developer GA - Everything you need to know!](https://www.voitanos.io/blog/microsoft-365-copilot-generally-available-october-2024/?utm_medium=rss&utm_source=voitanos.io)
 - Oct 1, 2024 - [SharePoint Framework v1.20 - What&#39;s in the Latest Release](https://www.voitanos.io/blog/sharepoint-framework-v1-20-whats-in-latest-update-of-spfx/?utm_medium=rss&utm_source=voitanos.io)
 - Oct 1, 2024 - [Using TypeScript v5 in SharePoint Framework Projects](https://www.voitanos.io/blog/sharepoint-framework-typescript-v5/?utm_medium=rss&utm_source=voitanos.io)
-- Sep 17, 2024 - [Join me for a free webinar about the SharePoint Framework](https://www.voitanos.io/blog/joinme-espc-webinar-spfx-overview-20241015/?utm_medium=rss&utm_source=voitanos.io)
-- Sep 16, 2024 - [Webinar: Microsoft Teams App Dev Overview September 2024 Webinar](https://www.voitanos.io/webinars/microsoft-teams-app-dev-overview-september-2024-webinar/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Sep 17, 2024 - [Join me for a free webinar about the SharePoint Framework](https://www.voitanos.io/blog/joinme-espc-webinar-spfx-overview-20241015/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
