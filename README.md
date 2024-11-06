@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew 👋🏼
 
-I am a full stack developer who focuses on Microsoft Azure & Microsoft 365. He's a 20+ year recipient of Microsoft's MVP award and has helped thousands of developers through the various courses he's authored & taught. Whether it's an introduction to the entire ecosystem, or a deep dive into a specific software, his resources, tools, and support help web developers become experts in the Microsoft 365 ecosystem, so they can become irreplaceable in their organization.
+I am a full stack developer who focuses on Microsoft Azure & Microsoft 365. I am a 20+ year recipient of Microsoft's MVP award and has helped thousands of developers through the various courses I've authored & taught. Whether it's an introduction to the entire ecosystem, or a deep dive into a specific software, my resources, tools, and support help web developers become experts in the Microsoft 365 ecosystem, so they can become irreplaceable in their organization.
 
 I'm the founder of [Voitanos](https://www.voitanos.io). My mission is to **teach web developers how to become an expert in the Microsoft 365 ecosystem**.
 
