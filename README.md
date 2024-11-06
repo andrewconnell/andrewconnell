@@ -1,20 +1,19 @@
 ## Hi, I'm Andrew 👋🏼
 
-I'm a developer focused on helping you be the best Microsoft 365 web & cloud developer through articles, videos, & courses! I've received Microsoft’s MVP award every year since 2005 & has helped thousands of developers through the various courses I've authored & taught.
+I am a full stack developer who focuses on Microsoft Azure & Microsoft 365. He's a 20+ year recipient of Microsoft's MVP award and has helped thousands of developers through the various courses he's authored & taught. Whether it's an introduction to the entire ecosystem, or a deep dive into a specific software, his resources, tools, and support help web developers become experts in the Microsoft 365 ecosystem, so they can become irreplaceable in their organization.
 
-I'm the founder of [Voitanos](https://www.voitanos.io). My missin is in **helping you be the best Microsoft 365 and Microsoft Azure full-stack developer**.
+I'm the founder of [Voitanos](https://www.voitanos.io). My mission is to **teach web developers how to become an expert in the Microsoft 365 ecosystem**.
 
 I live with my wife & two kids in Florida.
 
 [![](./images/mail.svg)](https://newsletter.voitanos.io) 
 [![](./images/youtube.svg)](https://andrewconnell.social/youtube) 
-[![](./images/threads.svg)](https://andrewconnell.social/threads) 
 [![](./images/linkedin.svg)](https://andrewconnell.social/linkedin) 
-[![](./images/x.svg)](https://andrewconnell.social/x) 
+[![](./images/threads.svg)](https://andrewconnell.social/threads) 
+[![](./images/bluesky.svg)](https://andrewconnell.social/bluesky) 
 [![](./images/instagram.svg)](andrewconnell.social/instagram) 
 [![](./images/github.svg)](andrewconnell.social/github) 
 [![](./images/mvp.svg)](andrewconnell.social/mvp) 
-<a rel="me" href="https://mastodon.world/@andrewconnell"><img src="./images/mastodon.svg" /></a> 
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
