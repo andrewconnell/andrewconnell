@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Nov 11, 2024 - [Reimage a flexible generator for the SharePoint Framework](https://www.voitanos.io/blog/sharepoint-framework-reimagine-flexible-generator/?utm_medium=rss&utm_source=andrewconnell.com)
 - Nov 4, 2024 - [Concepts Made Clear: Introducing the New Voitanos Brand](https://www.voitanos.io/blog/concepts-made-clear-introducing-the-new-voitanos-brand/?utm_medium=rss&utm_source=andrewconnell.com)
 - Nov 2, 2024 - [Microsoft 365 Copilot Developer GA - Everything you need to know!](https://www.andrewconnell.com/blog/microsoft-365-copilot-generally-available-october-2024/?utm_medium=rss&utm_source=andrewconnell.com)
 - Oct 1, 2024 - [Using TypeScript v5 in SharePoint Framework Projects](https://www.voitanos.io/blog/sharepoint-framework-typescript-v5/?utm_medium=rss&utm_source=andrewconnell.com)
-- Oct 1, 2024 - [SharePoint Framework v1.20 - What&#39;s in the Latest Release](https://www.voitanos.io/blog/sharepoint-framework-v1-20-whats-in-latest-update-of-spfx/?utm_medium=rss&utm_source=andrewconnell.com)
-- Sep 17, 2024 - [Join me for a free webinar about the SharePoint Framework](https://www.andrewconnell.com/blog/joinme-espc-webinar-spfx-overview-20241015/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Oct 1, 2024 - [SharePoint Framework v1.20 - What&#39;s in the Latest Release](https://www.voitanos.io/blog/sharepoint-framework-v1-20-whats-in-latest-update-of-spfx/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
