@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Nov 19, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - December 2024](https://www.youtube.com/watch?v=fzhHWOWRm1I)
 - Nov 4, 2024 - [Concepts made clear | Introducing Voitanos 2.0](https://www.youtube.com/watch?v=9hi0R4XDGzs)
 - Oct 29, 2024 - [Microsoft 365 Copilot Developer GA - Everything you need to know!](https://www.youtube.com/watch?v=IKG-UEdmP7M)
 - Oct 16, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - October 2024](https://www.youtube.com/watch?v=VUEDgJ1VcPk)
-- Oct 15, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - November 2024](https://www.youtube.com/watch?v=aSPEOMH7ntc)
-- Oct 7, 2024 - [Troubleshoot Microsoft Teams Toolkit issues with Node, Azure Functions, &amp; macOS](https://www.youtube.com/watch?v=rhOTfmPRS70)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Oct 15, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - November 2024](https://www.youtube.com/watch?v=aSPEOMH7ntc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
