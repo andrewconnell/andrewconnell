@@ -28,8 +28,8 @@ I live with my wife & two kids in Florida.
 - Nov 25, 2024 - [Announcement: New workshop - Build Declarative Agents for Microsoft 365 Copilot](https://www.voitanos.io/blog/announce-new-build-declarative-agents-microsoft-365-copilot-workshop/?utm_medium=rss&utm_source=voitanos.io)
 - Nov 22, 2024 - [Announcing our End of Year Sale 2024 - All You Need to Know](https://www.voitanos.io/blog/end-of-year-sale-2024/?utm_medium=rss&utm_source=voitanos.io)
 - Nov 20, 2024 - [Announcement: New SharePoint Framework Accelerator!](https://www.voitanos.io/blog/announce-new-sharepoint-framework-accelerator/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 19, 2024 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - November 2024](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2024-11-november/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 11, 2024 - [Reimage a flexible generator for the SharePoint Framework](https://www.voitanos.io/blog/sharepoint-framework-reimagine-flexible-generator/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Nov 19, 2024 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - December 2024](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2024-12-december/?utm_medium=rss&utm_source=voitanos.io)
+- Nov 19, 2024 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - November 2024](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2024-11-november/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
