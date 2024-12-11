@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Nov 26, 2024 - [Microsoft 365 Full-Stack Developer&#39;s Recap to Ignite 2024](https://www.voitanos.io/blog/microsoft-365-fullstack-developer-recap-microsoft-ignite-2024/?utm_medium=rss&utm_source=andrewconnell.com)
+- Nov 25, 2024 - [Announcement: New workshop - Build Declarative Agents for Microsoft 365 Copilot](https://www.voitanos.io/blog/announce-new-build-declarative-agents-microsoft-365-copilot-workshop/?utm_medium=rss&utm_source=andrewconnell.com)
 - Nov 22, 2024 - [Announcing our End of Year Sale 2024 - All You Need to Know](https://www.voitanos.io/blog/end-of-year-sale-2024/?utm_medium=rss&utm_source=andrewconnell.com)
 - Nov 20, 2024 - [Announcement: New Sharepoint Framework Accelerator!](https://www.voitanos.io/blog/announce-new-sharepoint-framework-accelerator/?utm_medium=rss&utm_source=andrewconnell.com)
-- Nov 11, 2024 - [Reimage a flexible generator for the SharePoint Framework](https://www.voitanos.io/blog/sharepoint-framework-reimagine-flexible-generator/?utm_medium=rss&utm_source=andrewconnell.com)
-- Nov 4, 2024 - [Concepts Made Clear: Introducing the New Voitanos Brand](https://www.voitanos.io/blog/concepts-made-clear-introducing-the-new-voitanos-brand/?utm_medium=rss&utm_source=andrewconnell.com)
-- Nov 2, 2024 - [Microsoft 365 Copilot Developer GA - Everything you need to know!](https://www.andrewconnell.com/blog/microsoft-365-copilot-generally-available-october-2024/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Nov 11, 2024 - [Reimage a flexible generator for the SharePoint Framework](https://www.voitanos.io/blog/sharepoint-framework-reimagine-flexible-generator/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
