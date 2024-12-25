@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Dec 24, 2024 - [Reflecting Back on 2024 and Looking Forward to 2025](https://www.voitanos.io/blog/reflecting-back-2024-looking-forward-2025/?utm_medium=rss&utm_source=voitanos.io)
 - Dec 20, 2024 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - January 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-01-january/?utm_medium=rss&utm_source=voitanos.io)
 - Nov 26, 2024 - [Microsoft 365 Full-Stack Developer&#39;s Recap to Ignite 2024](https://www.voitanos.io/blog/microsoft-365-fullstack-developer-recap-microsoft-ignite-2024/?utm_medium=rss&utm_source=voitanos.io)
 - Nov 25, 2024 - [Announcement: New workshop - Build Declarative Agents for Microsoft 365 Copilot](https://www.voitanos.io/blog/announce-new-build-declarative-agents-microsoft-365-copilot-workshop/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 22, 2024 - [Announcing our End of Year Sale 2024 - All You Need to Know](https://www.voitanos.io/blog/end-of-year-sale-2024/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 20, 2024 - [Announcement: New SharePoint Framework Accelerator!](https://www.voitanos.io/blog/announce-new-sharepoint-framework-accelerator/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Nov 22, 2024 - [Announcing our End of Year Sale 2024 - All You Need to Know](https://www.voitanos.io/blog/end-of-year-sale-2024/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
