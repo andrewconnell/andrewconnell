@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Jan 12, 2025 - [Join me - TechCon365 - Seattle, June 2025 for Microsoft 365 Copilot Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2025/?utm_medium=rss&utm_source=andrewconnell.com)
 - Jan 10, 2025 - [Join me - Microsoft 365 Community Conference - Las Vegas - May 2025](https://www.voitanos.io/blog/joinme-m365conf-lasvegas-2025/?utm_medium=rss&utm_source=andrewconnell.com)
 - Jan 6, 2025 - [How To: Remove Azure Functions from React Tab TTK Projects](https://www.voitanos.io/blog/microsoft-teams-toolkit-tab-remove-azure-function/?utm_medium=rss&utm_source=andrewconnell.com)
 - Nov 26, 2024 - [Microsoft 365 Full-Stack Developer&#39;s Recap to Ignite 2024](https://www.voitanos.io/blog/microsoft-365-fullstack-developer-recap-microsoft-ignite-2024/?utm_medium=rss&utm_source=andrewconnell.com)
-- Nov 25, 2024 - [Announcement: New workshop - Build Declarative Agents for Microsoft 365 Copilot](https://www.voitanos.io/blog/announce-new-build-declarative-agents-microsoft-365-copilot-workshop/?utm_medium=rss&utm_source=andrewconnell.com)
-- Nov 22, 2024 - [Announcing our End of Year Sale 2024 - All You Need to Know](https://www.voitanos.io/blog/end-of-year-sale-2024/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Nov 25, 2024 - [Announcement: New workshop - Build Declarative Agents for Microsoft 365 Copilot](https://www.voitanos.io/blog/announce-new-build-declarative-agents-microsoft-365-copilot-workshop/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
