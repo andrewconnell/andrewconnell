@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jan 12, 2025 - [Join me - TechCon365 - Seattle, June 2025 for Microsoft 365 Copilot Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2025/?utm_medium=rss&utm_source=voitanos.io)
 - Jan 10, 2025 - [Join me - Microsoft 365 Community Conference - Las Vegas - May 2025](https://www.voitanos.io/blog/joinme-m365conf-lasvegas-2025/?utm_medium=rss&utm_source=voitanos.io)
 - Jan 6, 2025 - [How To: Remove Azure Functions from React Tab TTK Projects](https://www.voitanos.io/blog/microsoft-teams-toolkit-tab-remove-azure-function/?utm_medium=rss&utm_source=voitanos.io)
 - Dec 24, 2024 - [Reflecting Back on 2024 and Looking Forward to 2025](https://www.voitanos.io/blog/reflecting-back-2024-looking-forward-2025/?utm_medium=rss&utm_source=voitanos.io)
-- Dec 20, 2024 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - January 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-01-january/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 26, 2024 - [Microsoft 365 Full-Stack Developer&#39;s Recap to Ignite 2024](https://www.voitanos.io/blog/microsoft-365-fullstack-developer-recap-microsoft-ignite-2024/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Dec 20, 2024 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - January 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-01-january/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
