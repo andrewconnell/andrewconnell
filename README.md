@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
-- Feb 4, 2025 - [How To Configure TTK Projects for GCC Development &amp; Testing](https://www.voitanos.io/blog/microsoft-teams-toolkit-howto-configure-ttk-projects-for-gcc-development/?utm_medium=rss&utm_source=voitanos.io)
-- Jan 21, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - February 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-02-february/?utm_medium=rss&utm_source=voitanos.io)
-- Jan 21, 2025 - [How To Config Microsoft 365 Copilot Chat Consumption Billing](https://www.voitanos.io/blog/microsoft-365-copilot-chat-consumption-billing-howto-configure/?utm_medium=rss&utm_source=voitanos.io)
-- Jan 21, 2025 - [Microsoft 365 Copilot Chat Consumption Billing Developers](https://www.voitanos.io/blog/microsoft-365-copilot-chat-consumption-billing-developers/?utm_medium=rss&utm_source=voitanos.io)
-- Jan 12, 2025 - [Join me - TechCon365 - Seattle, June 2025 for Microsoft 365 Copilot Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2025/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Feb 12, 2025 - [Learn SharePoint Framework and Customize Microsoft 365 Apps](https://www.voitanos.io/blog/webinar-sharepoint-framework-customize-extendm365-apps-20250227/?utm_medium=rss&utm_source=voitanos.io)
+- Feb 12, 2025 - [Webinar: Navigating SharePoint Framework: Tips and Hidden Gems](https://www.voitanos.io/webinars/sharepoint-framework-best-practices-hidden-gems/?utm_medium=rss&utm_source=voitanos.io)
+- Feb 12, 2025 - [Webinar: Introduction to Microsoft Teams Application Development](https://www.voitanos.io/webinars/microsoft-teams-app-dev-overview-2025-04a/?utm_medium=rss&utm_source=voitanos.io)
+- Feb 12, 2025 - [Webinar: Introduction to Microsoft Teams Application Development](https://www.voitanos.io/webinars/microsoft-teams-app-dev-overview-2025-04b/?utm_medium=rss&utm_source=voitanos.io)
+- Feb 12, 2025 - [Webinar: Learn about the Microsoft Teams Toolkit for VS Code](https://www.voitanos.io/webinars/microsoft-teams-teams-toolkit-vscode-overview/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
