@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Feb 19, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - February 2025](https://www.youtube.com/watch?v=9lKxxVTiotE)
 - Feb 18, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - March 2025](https://www.youtube.com/watch?v=nQxNj5mjdaQ)
 - Jan 22, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - January 2025](https://www.youtube.com/watch?v=-DrtX3USgEs)
-- Jan 21, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - February 2025](https://www.youtube.com/watch?v=9lKxxVTiotE)
 - Jan 12, 2025 - [Join me - TechCon365 - Seattle, June 2025 for Microsoft 365 Copilot Dev](https://www.youtube.com/watch?v=F0Qle2C7k1w)
 - Jan 10, 2025 - [Join me - Microsoft 365 Community Conference - Las Vegas - May 2025](https://www.youtube.com/watch?v=wLpckx1n6Qk)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
