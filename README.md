@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Feb 20, 2025 - [Build Declarative Agents for Microsoft 365 Copilot - Live Workshop - March 2025](https://www.voitanos.io/blog/announce-build-declarative-agents-microsoft-365-copilot-workshop-202503/?utm_medium=rss&utm_source=voitanos.io)
 - Feb 18, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - March 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-03-march/?utm_medium=rss&utm_source=voitanos.io)
+- Feb 18, 2025 - [SharePoint Framework Project Upgrades and Versions Guidance](https://www.voitanos.io/blog/sharepoint-framework-versioning-upgrade-guidance/?utm_medium=rss&utm_source=voitanos.io)
 - Feb 12, 2025 - [Learn SharePoint Framework and Customize Microsoft 365 Apps](https://www.voitanos.io/blog/webinar-sharepoint-framework-customize-extendm365-apps-20250227/?utm_medium=rss&utm_source=voitanos.io)
-- Feb 12, 2025 - [Webinar: Navigating SharePoint Framework: Tips and Hidden Gems](https://www.voitanos.io/webinars/sharepoint-framework-best-practices-hidden-gems/?utm_medium=rss&utm_source=voitanos.io)
-- Feb 12, 2025 - [Webinar: Introduction to Microsoft Teams Application Development](https://www.voitanos.io/webinars/microsoft-teams-app-dev-overview-2025-04a/?utm_medium=rss&utm_source=voitanos.io)
-- Feb 12, 2025 - [Webinar: Introduction to Microsoft Teams Application Development](https://www.voitanos.io/webinars/microsoft-teams-app-dev-overview-2025-04b/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Feb 12, 2025 - [Webinar: Navigating SharePoint Framework: Tips and Hidden Gems](https://www.voitanos.io/webinars/sharepoint-framework-best-practices-hidden-gems/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
