@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
-- Jan 23, 2025 - [How To Config Microsoft 365 Copilot Chat Consumption Billing](https://www.voitanos.io/blog/microsoft-365-copilot-chat-consumption-billing-howto-configure/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jan 23, 2025 - [Microsoft 365 Copilot Chat Consumption Billing Developers](https://www.voitanos.io/blog/microsoft-365-copilot-chat-consumption-billing-developers/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jan 12, 2025 - [Join me - TechCon365 - Seattle, June 2025 for Microsoft 365 Copilot Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2025/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jan 10, 2025 - [Join me - Microsoft 365 Community Conference - Las Vegas - May 2025](https://www.voitanos.io/blog/joinme-m365conf-lasvegas-2025/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jan 6, 2025 - [How To: Remove Azure Functions from React Tab TTK Projects](https://www.voitanos.io/blog/microsoft-teams-toolkit-tab-remove-azure-function/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Mar 3, 2025 - [Microsoft 365 Dev Tenants: A Paid Model Could Save Them](https://www.voitanos.io/blog/microsoft-365-developer-program-tenants-a-paid-model-could-save-them/?utm_medium=rss&utm_source=andrewconnell.com)
+- Feb 20, 2025 - [Build Declarative Agents for Microsoft 365 Copilot - Live Workshop - March 2025](https://www.voitanos.io/blog/announce-build-declarative-agents-microsoft-365-copilot-workshop-202503/?utm_medium=rss&utm_source=andrewconnell.com)
+- Feb 18, 2025 - [SharePoint Framework Project Upgrades and Versions Guidance](https://www.voitanos.io/blog/sharepoint-framework-versioning-upgrade-guidance/?utm_medium=rss&utm_source=andrewconnell.com)
+- Feb 4, 2025 - [How To Configure TTK Projects for GCC Development &amp; Testing](https://www.voitanos.io/blog/microsoft-teams-toolkit-howto-configure-ttk-projects-for-gcc-development/?utm_medium=rss&utm_source=andrewconnell.com)
+- Jan 23, 2025 - [How To Config Microsoft 365 Copilot Chat Consumption Billing](https://www.voitanos.io/blog/microsoft-365-copilot-chat-consumption-billing-howto-configure/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
