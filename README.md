@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Apr 10, 2025 - [Join me - TechCon365 - Atlanta, August 2025 for Microsoft 365 Copilot Dev](https://www.voitanos.io/blog/joinme-techcon365-atlanta-2025/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 2, 2025 - [Customize Microsoft 365 Copilot with Agents &lpar;webinar&rpar;](https://www.voitanos.io/blog/microsoft-365-copilot-bespoke-ai-with-agents-webinar/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 2, 2025 - [Webinar: Bespoke AI - Customizing Microsoft 365 Copilot with Agents](https://www.voitanos.io/webinars/microsoft-365-copilot-bespoke-ai-with-agents/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 1, 2025 - [SharePoint Framework CI/CD with GitHub Actions &amp; No Creds!](https://www.voitanos.io/blog/sharepoint-framework-cicd-github-federated-identity/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 13, 2025 - [Voitanos 2.0 - Realizing the New Brand with a New Website!](https://www.voitanos.io/blog/announcing-new-voitanos-website-2025/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 11, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - April 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-04-march/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Mar 13, 2025 - [Voitanos 2.0 - Realizing the New Brand with a New Website!](https://www.voitanos.io/blog/announcing-new-voitanos-website-2025/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
