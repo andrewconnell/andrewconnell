@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Apr 15, 2025 - [Voitanos 2.0 - Voitanos Learn: New Student Experience](https://www.voitanos.io/blog/announcing-voitanos-learn-student-experience/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 15, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - May 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-05-may/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 14, 2025 - [Where to Ask Microsoft 365 Developer Questions For Help](https://www.voitanos.io/blog/developers-where-to-ask-questions-when-you-need-help/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 14, 2025 - [Developers - How to Ask Good Questions When You Need Help](https://www.voitanos.io/blog/developers-how-to-ask-good-questions-when-you-need-help/?utm_medium=rss&utm_source=voitanos.io)
-- Apr 10, 2025 - [Join me - TechCon365 - Atlanta, August 2025 for Microsoft 365 Copilot Dev](https://www.voitanos.io/blog/joinme-techcon365-atlanta-2025/?utm_medium=rss&utm_source=voitanos.io)
-- Apr 2, 2025 - [Customize Microsoft 365 Copilot with Agents &lpar;webinar&rpar;](https://www.voitanos.io/blog/microsoft-365-copilot-bespoke-ai-with-agents-webinar/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Apr 10, 2025 - [Join me - TechCon365 - Atlanta, August 2025 for Microsoft 365 Copilot Dev](https://www.voitanos.io/blog/joinme-techcon365-atlanta-2025/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
