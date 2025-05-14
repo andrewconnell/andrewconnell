@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- May 13, 2025 - [How To Debug SPFx Solutions in Production Using Source Maps](https://www.voitanos.io/blog/sharepoint-framework-how-to-debug-solutions-in-production-using-source-maps/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 29, 2025 - [Microsoft 365 Developer Program Tenants: Questions + Wishes](https://www.voitanos.io/blog/microsoft-365-developer-program-status-april-2025-questions-wishes/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 24, 2025 - [Microsoft 365 Developer Program Status - April 2025](https://www.voitanos.io/blog/microsoft-365-developer-program-status-april-2025/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 15, 2025 - [Voitanos 2.0 - Voitanos Learn: New Student Experience](https://www.voitanos.io/blog/announcing-voitanos-learn-student-experience/?utm_medium=rss&utm_source=voitanos.io)
-- Apr 15, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - May 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-05-may/?utm_medium=rss&utm_source=voitanos.io)
-- Apr 14, 2025 - [Where to Ask Microsoft 365 Developer Questions For Help](https://www.voitanos.io/blog/developers-where-to-ask-questions-when-you-need-help/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Apr 15, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - May 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-05-may/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
