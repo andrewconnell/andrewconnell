@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jun 17, 2025 - [Microsoft retires SharePoint Framework field customizers](https://www.voitanos.io/blog/sharepoint-framework-field-customizer-retirement/?utm_medium=rss&utm_source=voitanos.io)
+- Jun 17, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - July 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-07-july/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 6, 2025 - [SharePoint Online&#39;s Support for Content Security Policy](https://www.voitanos.io/blog/sharepoint-online-content-security-policy-rollout-suggestions/?utm_medium=rss&utm_source=voitanos.io)
 - May 27, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - June 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-06-june/?utm_medium=rss&utm_source=voitanos.io)
-- May 27, 2025 - [Microsoft 365 Full-Stack Developer&#39;s Recap to Build 2025](https://www.voitanos.io/blog/microsoft-365-fullstack-developer-recap-microsoft-build-2025/?utm_medium=rss&utm_source=voitanos.io)
-- May 21, 2025 - [Code. Deploy. Go Live. - A Podcast for Full-Stack Developers](https://www.voitanos.io/blog/announce-code-deploy-golive-podcast/?utm_medium=rss&utm_source=voitanos.io)
-- May 21, 2025 - [Join Me @ ESPC in Dublin in DEC 2025 - M365 Copilot Dev](https://www.voitanos.io/blog/joinme-espc-dublin-2025/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- May 27, 2025 - [Microsoft 365 Full-Stack Developer&#39;s Recap to Build 2025](https://www.voitanos.io/blog/microsoft-365-fullstack-developer-recap-microsoft-build-2025/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
