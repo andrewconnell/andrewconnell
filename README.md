@@ -28,8 +28,8 @@ I live with my wife & two kids in Florida.
 - Jul 13, 2025 - [Webinar: Intro to Customizing Microsoft 365 Copilot with Agents](https://www.voitanos.io/webinars/microsoft-365-copilot-into-to-agents-20250715/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 23, 2025 - [How to Add TypeSpec to M365 Copilot Declarative Agent Projects](https://www.voitanos.io/blog/microsoft-365-copilot-declarative-agent-typespec-starter-project/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 23, 2025 - [TypeSpec 101: Building Microsoft 365 Declarative Agents](https://www.voitanos.io/blog/microsoft-365-copilot-declarative-agent-typespec-101/?utm_medium=rss&utm_source=voitanos.io)
-- Jun 19, 2025 - [Webinar: How to Customize &amp; Extend Microsoft 365 Copilot with Agents](https://www.voitanos.io/webinars/microsoft-365-copilot-into-to-agents-20250702/?utm_medium=rss&utm_source=voitanos.io)
-- Jun 17, 2025 - [Microsoft retires SharePoint Framework field customizers](https://www.voitanos.io/blog/sharepoint-framework-field-customizer-retirement/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jun 17, 2025 - [Microsoft retires SharePoint Framework field customizers](https://www.voitanos.io/blog/sharepoint-framework-field-customizer-retirement/?utm_medium=rss&utm_source=voitanos.io)
+- Jun 17, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - August 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-08-august/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
