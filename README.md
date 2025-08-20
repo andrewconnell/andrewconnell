@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
-- Jun 17, 2025 - [Microsoft retires SharePoint Framework field customizers](https://www.voitanos.io/blog/sharepoint-framework-field-customizer-retirement/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jun 6, 2025 - [SharePoint Online&#39;s Support for Content Security Policy](https://www.voitanos.io/blog/sharepoint-online-content-security-policy-rollout-suggestions/?utm_medium=rss&utm_source=andrewconnell.com)
-- May 27, 2025 - [Microsoft 365 Full-Stack Developer&#39;s Recap to Build 2025](https://www.voitanos.io/blog/microsoft-365-fullstack-developer-recap-microsoft-build-2025/?utm_medium=rss&utm_source=andrewconnell.com)
-- May 21, 2025 - [Code. Deploy. Go Live. - A Podcast for Full-Stack Developers](https://www.voitanos.io/blog/announce-code-deploy-golive-podcast/?utm_medium=rss&utm_source=andrewconnell.com)
-- May 21, 2025 - [Join Me @ ESPC in Dublin in DEC 2025 - M365 Copilot Dev](https://www.voitanos.io/blog/joinme-espc-dublin-2025/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Aug 19, 2025 - [Join me - M365 Twin Cities - September 2025 for Microsoft 365 Copilot Extensibility!](https://www.voitanos.io/blog/joinme-m365twincities-2025/?utm_medium=rss&utm_source=andrewconnell.com)
+- Aug 19, 2025 - [Extending Microsoft 365 Copilot: Declarative Agent Alternative to Copilot Studio](https://www.voitanos.io/blog/microsoft-365-copilot-extensibility-options-declarative-agents-copilot-studio/?utm_medium=rss&utm_source=andrewconnell.com)
+- Aug 8, 2025 - [Live Microsoft 365 Learning for SPFx, Copilot, and MS Teams](https://www.voitanos.io/blog/news-2025-spfx-copilot-teams-live-classes/?utm_medium=rss&utm_source=andrewconnell.com)
+- Aug 4, 2025 - [Microsoft 365 Copilot vs ChatGPT: What M365 devs should know](https://www.voitanos.io/blog/microsoft-365-copilot-vs-chatgpt-developer-comparison/?utm_medium=rss&utm_source=andrewconnell.com)
+- Jul 21, 2025 - [How Microsoft 365 Copilot Works: Understanding the Tech Stack Behind the Magic](https://www.voitanos.io/blog/how-microsoft-365-copilot-works-tech-stack/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
