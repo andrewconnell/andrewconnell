@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Aug 19, 2025 - [Join me - M365 Twin Cities - September 2025 for Microsoft 365 Copilot Extensibility!](https://www.voitanos.io/blog/joinme-m365twincities-2025/?utm_medium=rss&utm_source=voitanos.io)
+- Aug 19, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - September 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-09-september/?utm_medium=rss&utm_source=voitanos.io)
+- Aug 19, 2025 - [Extending Microsoft 365 Copilot: Declarative Agent Alternative to Copilot Studio](https://www.voitanos.io/blog/microsoft-365-copilot-extensibility-options-declarative-agents-copilot-studio/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 8, 2025 - [Live Microsoft 365 Learning for SPFx, Copilot, and MS Teams](https://www.voitanos.io/blog/news-2025-spfx-copilot-teams-live-classes/?utm_medium=rss&utm_source=voitanos.io)
-- Aug 4, 2025 - [Microsoft 365 Copilot vs ChatGPT: What M365 devs should know](https://www.voitanos.io/blog/microsoft-365-copilot-vs-chatgpt-developer-comparison/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 30, 2025 - [Webinar: Microsoft 365 Copilot Custom Engine Agent Overview](https://www.voitanos.io/webinars/microsoft-365-copilot-custom-engine-agent-overview-20251230/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 30, 2025 - [Webinar: TypeSpec: Better Option for M365 Copilot Declarative Agents](https://www.voitanos.io/webinars/microsoft-365-copilot-typespec-for-declarativeagents-20251111/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 30, 2025 - [Webinar: Explore SharePoint Embedded App Development: From Setup to Production Ready Apps](https://www.voitanos.io/webinars/sharepoint-embedded-overview-setup-to-production-apps-20251014/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Aug 4, 2025 - [Microsoft 365 Copilot vs ChatGPT: What M365 devs should know](https://www.voitanos.io/blog/microsoft-365-copilot-vs-chatgpt-developer-comparison/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
