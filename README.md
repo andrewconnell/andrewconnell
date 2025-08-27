@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Aug 26, 2025 - [Why I switched from NVM to Fast Node Manager &lpar;you should too&rpar;](https://www.voitanos.io/blog/why-i-switched-from-nvm-to-fast-node-manager/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 19, 2025 - [Join me - M365 Twin Cities - September 2025 for Microsoft 365 Copilot Extensibility!](https://www.voitanos.io/blog/joinme-m365twincities-2025/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 19, 2025 - [Extending Microsoft 365 Copilot: Declarative Agent Alternative to Copilot Studio](https://www.voitanos.io/blog/microsoft-365-copilot-extensibility-options-declarative-agents-copilot-studio/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 8, 2025 - [Live Microsoft 365 Learning for SPFx, Copilot, and MS Teams](https://www.voitanos.io/blog/news-2025-spfx-copilot-teams-live-classes/?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 4, 2025 - [Microsoft 365 Copilot vs ChatGPT: What M365 devs should know](https://www.voitanos.io/blog/microsoft-365-copilot-vs-chatgpt-developer-comparison/?utm_medium=rss&utm_source=andrewconnell.com)
-- Jul 21, 2025 - [How Microsoft 365 Copilot Works: Understanding the Tech Stack Behind the Magic](https://www.voitanos.io/blog/how-microsoft-365-copilot-works-tech-stack/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Aug 4, 2025 - [Microsoft 365 Copilot vs ChatGPT: What M365 devs should know](https://www.voitanos.io/blog/microsoft-365-copilot-vs-chatgpt-developer-comparison/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
