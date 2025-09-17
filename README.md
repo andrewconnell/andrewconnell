@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Sep 16, 2025 - [Microsoft 365 Copilot Declarative agents vs Copilot Studio: Knowledge sources compared](https://www.voitanos.io/blog/microsoft-365-copilot-declarative-agents-vs-copilot-studio-knowledge-connectors/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 31, 2025 - [Join me - CollabDays New England - October 2025 for Microsoft 365 Copilot Extensibility!](https://www.voitanos.io/blog/joinme-collabdays-newengland-2025/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 30, 2025 - [Microsoft quietly changed &lpar;broke?&rpar; Teams tab development &lpar;and how to fix it&rpar;](https://www.voitanos.io/blog/microsoft-teams-personal-apps-static-tab-scope-changes/?utm_medium=rss&utm_source=voitanos.io)
 - Aug 26, 2025 - [Why I switched from NVM to Fast Node Manager &lpar;you should too&rpar;](https://www.voitanos.io/blog/why-i-switched-from-nvm-to-fast-node-manager/?utm_medium=rss&utm_source=voitanos.io)
-- Aug 19, 2025 - [Join me - M365 Twin Cities - September 2025 for Microsoft 365 Copilot Extensibility!](https://www.voitanos.io/blog/joinme-m365twincities-2025/?utm_medium=rss&utm_source=voitanos.io)
-- Aug 19, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - September 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-09-september/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Aug 19, 2025 - [Join me - M365 Twin Cities - September 2025 for Microsoft 365 Copilot Extensibility!](https://www.voitanos.io/blog/joinme-m365twincities-2025/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
