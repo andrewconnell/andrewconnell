@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Sep 23, 2025 - [Microsoft 365 Fullstack Dev&#39;s Office Hours - October 2025](https://www.youtube.com/watch?v=x0eAZV9fIWk)
 - Aug 20, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - August 2025](https://www.youtube.com/watch?v=7N4PdFHC5RE)
 - Jul 30, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - September 2025](https://www.youtube.com/watch?v=Hw7s4ur9MdQ)
 - Jul 16, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - July 2025](https://www.youtube.com/watch?v=YGuGpfaTch4)
-- Jun 18, 2025 - [SPFx Field Customizers Are Dead: M365’s Betrayal of Developers](https://www.youtube.com/watch?v=WhM1vyEBwpQ)
-- Jun 18, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - June 2025](https://www.youtube.com/watch?v=j-rPLoepQmM)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jun 18, 2025 - [SPFx Field Customizers Are Dead: M365’s Betrayal of Developers](https://www.youtube.com/watch?v=WhM1vyEBwpQ)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
