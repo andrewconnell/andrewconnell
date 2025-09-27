@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- Sep 26, 2025 - [Finally! SharePoint Framework Roadmap + Advisory Committee](https://www.voitanos.io/blog/sharepoint-framework-public-roadmap-september-2025/?utm_medium=rss&utm_source=andrewconnell.com)
 - Sep 16, 2025 - [Microsoft 365 Copilot Declarative agents vs Copilot Studio: Knowledge sources compared](https://voitanos.io/blog/microsoft-365-copilot-declarative-agents-vs-copilot-studio-knowledge-connectors?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 31, 2025 - [Join me - CollabDays New England - October 2025 for Microsoft 365 Copilot Extensibility!](https://www.andrewconnell.com/blog/joinme-collabdays-newengland-2025/?utm_medium=rss&utm_source=andrewconnell.com)
 - Aug 30, 2025 - [Microsoft quietly changed &lpar;broke?&rpar; Teams tab development &lpar;and how to fix it&rpar;](https://www.voitanos.io/blog/microsoft-teams-personal-apps-static-tab-scope-changes/?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 26, 2025 - [Why I switched from NVM to Fast Node Manager &lpar;you should too&rpar;](https://www.voitanos.io/blog/why-i-switched-from-nvm-to-fast-node-manager/?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 19, 2025 - [Join me - M365 Twin Cities - September 2025 for Microsoft 365 Copilot Extensibility!](https://www.voitanos.io/blog/joinme-m365twincities-2025/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Aug 26, 2025 - [Why I switched from NVM to Fast Node Manager &lpar;you should too&rpar;](https://www.voitanos.io/blog/why-i-switched-from-nvm-to-fast-node-manager/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
