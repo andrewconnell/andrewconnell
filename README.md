@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Oct 21, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - November 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-11-november/?utm_medium=rss&utm_source=voitanos.io)
 - Oct 14, 2025 - [Microsoft Teams development SDK Guidance - Fall 2025](https://www.voitanos.io/blog/microsoft-teams-sdk-evolution-2025/?utm_medium=rss&utm_source=voitanos.io)
-- Oct 1, 2025 - [Webinar: Intro to Customizing Microsoft 365 Copilot with Agents](https://www.voitanos.io/webinars/microsoft-365-copilot-into-to-agents-20251209/?utm_medium=rss&utm_source=voitanos.io)
+- Oct 1, 2025 - [Webinar: Evaluate your M365 Copilot Agent Options](https://www.voitanos.io/webinars/microsoft-365-copilot-evaluate-your-agent-options-20251209/?utm_medium=rss&utm_source=voitanos.io)
 - Sep 26, 2025 - [Finally! SharePoint Framework Roadmap + Advisory Committee](https://www.voitanos.io/blog/sharepoint-framework-public-roadmap-september-2025/?utm_medium=rss&utm_source=voitanos.io)
-- Sep 23, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - October 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-10-october/?utm_medium=rss&utm_source=voitanos.io)
-- Sep 16, 2025 - [Microsoft 365 Copilot Declarative agents vs Copilot Studio: Knowledge sources compared](https://www.voitanos.io/blog/microsoft-365-copilot-declarative-agents-vs-copilot-studio-knowledge-connectors/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Sep 23, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - October 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-10-october/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
