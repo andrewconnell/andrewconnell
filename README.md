@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Nov 10, 2025 - [Microsoft has Three SDKs for Teams Apps, What Should You Use](https://www.voitanos.io/blog/microsoft-teams-three-sdks-what-to-use/?utm_medium=rss&utm_source=voitanos.io)
+- Nov 10, 2025 - [Join me - ECS2026 in Cologne in May 2026 - M365 Copilot Dev](https://www.voitanos.io/blog/joinme-ecs2206-cologne-2026/?utm_medium=rss&utm_source=voitanos.io)
+- Nov 9, 2025 - [Join me - Microsoft 365 Community Conference - Orlando - April 2026](https://www.voitanos.io/blog/joinme-m365conf-orlando-2026/?utm_medium=rss&utm_source=voitanos.io)
 - Oct 28, 2025 - [Microsoft&#39;s Own Goals in Teams Development](https://www.voitanos.io/blog/microsoft-teams-development-own-goals/?utm_medium=rss&utm_source=voitanos.io)
-- Oct 21, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - November 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-11-november/?utm_medium=rss&utm_source=voitanos.io)
-- Oct 14, 2025 - [Microsoft Teams development SDK Guidance - Fall 2025](https://www.voitanos.io/blog/microsoft-teams-sdk-evolution-2025/?utm_medium=rss&utm_source=voitanos.io)
-- Oct 1, 2025 - [Webinar: Evaluate your M365 Copilot Agent Options](https://www.voitanos.io/webinars/microsoft-365-copilot-evaluate-your-agent-options-20251209/?utm_medium=rss&utm_source=voitanos.io)
-- Sep 26, 2025 - [Finally! SharePoint Framework Roadmap + Advisory Committee](https://www.voitanos.io/blog/sharepoint-framework-public-roadmap-september-2025/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Oct 21, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - November 2025](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2025-11-november/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
