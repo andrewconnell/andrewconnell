@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Nov 21, 2025 - [Announcing: End of Year Sale 2025 - All You Need to Know](https://www.voitanos.io/blog/end-of-year-sale-2025/?utm_medium=rss&utm_source=voitanos.io)
+- Nov 21, 2025 - [Announcing: Revamped SPFx Workshop – Built on Your Feedback](https://www.voitanos.io/blog/sharepoint-framework-workshop-v2/?utm_medium=rss&utm_source=voitanos.io)
 - Nov 11, 2025 - [M365 Agents Toolkit: Great tech but lacks developer empathy](https://www.voitanos.io/blog/microsoft-365-agents-toolkit-great-tech-lacks-developer-empathy/?utm_medium=rss&utm_source=voitanos.io)
 - Nov 10, 2025 - [Microsoft has Three SDKs for Teams Apps, What Should You Use](https://www.voitanos.io/blog/microsoft-teams-three-sdks-what-to-use/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 10, 2025 - [Join me - ECS2026 in Cologne in May 2026 - M365 Copilot Dev](https://www.voitanos.io/blog/joinme-ecs2206-cologne-2026/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 9, 2025 - [Join me - Microsoft 365 Community Conference - Orlando - April 2026](https://www.voitanos.io/blog/joinme-m365conf-orlando-2026/?utm_medium=rss&utm_source=voitanos.io)
-- Oct 28, 2025 - [Microsoft&#39;s Own Goals in Teams Development](https://www.voitanos.io/blog/microsoft-teams-development-own-goals/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Nov 10, 2025 - [Join me - ECS2026 in Cologne in May 2026 - M365 Copilot Dev](https://www.voitanos.io/blog/joinme-ecs2206-cologne-2026/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
