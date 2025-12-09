@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
-- Sep 26, 2025 - [Finally! SharePoint Framework Roadmap + Advisory Committee](https://www.voitanos.io/blog/sharepoint-framework-public-roadmap-september-2025/?utm_medium=rss&utm_source=andrewconnell.com)
-- Sep 16, 2025 - [Microsoft 365 Copilot Declarative agents vs Copilot Studio: Knowledge sources compared](https://voitanos.io/blog/microsoft-365-copilot-declarative-agents-vs-copilot-studio-knowledge-connectors?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 31, 2025 - [Join me - CollabDays New England - October 2025 for Microsoft 365 Copilot Extensibility!](https://www.andrewconnell.com/blog/joinme-collabdays-newengland-2025/?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 30, 2025 - [Microsoft quietly changed &lpar;broke?&rpar; Teams tab development &lpar;and how to fix it&rpar;](https://www.voitanos.io/blog/microsoft-teams-personal-apps-static-tab-scope-changes/?utm_medium=rss&utm_source=andrewconnell.com)
-- Aug 26, 2025 - [Why I switched from NVM to Fast Node Manager &lpar;you should too&rpar;](https://www.voitanos.io/blog/why-i-switched-from-nvm-to-fast-node-manager/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Dec 8, 2025 - [Customize SPFx Heft Toolchain: Plugins, Scripts, and Webpack](https://www.voitanos.io/blog/sharepoint-framework-customize-heft-toolchain-plugins-scripts-webpack/?utm_medium=rss&utm_source=andrewconnell.com)
+- Dec 8, 2025 - [How To: Create custom Heft plugins to lint stylesheets](https://www.voitanos.io/blog/heft-create-custom-plugin-stylelint/?utm_medium=rss&utm_source=andrewconnell.com)
+- Dec 8, 2025 - [SharePoint Framework v1.22: What&#39;s in the Latest SPFx Update](https://www.voitanos.io/blog/sharepoint-framework-v1-22-whats-in-latest-update-of-spfx/?utm_medium=rss&utm_source=andrewconnell.com)
+- Nov 24, 2025 - [Announcing: Microsoft Teams App/Tab Dev New LIVE Workshop](https://www.voitanos.io/blog/microsoft-teams-apps-tabs-workshop/?utm_medium=rss&utm_source=andrewconnell.com)
+- Nov 21, 2025 - [Announcing: Revamped SPFx Workshop – Built on Your Feedback](https://www.voitanos.io/blog/sharepoint-framework-workshop-v2/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
