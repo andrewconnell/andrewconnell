@@ -33,7 +33,7 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
-- Dec 8, 2025 - [Evaluate your M365 Copilot Agent options: SharePoint, Copilot Studio Lite/F](https://www.youtube.com/watch?v=EGgT2ZGzNUc)
+- Dec 10, 2025 - [Evaluate your M365 Copilot Agent options: SharePoint, Copilot Studio Lite/F](https://www.youtube.com/watch?v=EGgT2ZGzNUc)
 - Nov 26, 2025 - [JSON Hell to TypeSpec: Build M365 Copilot Declarative Agents the Right Way](https://www.youtube.com/watch?v=imolAR1C6o8)
 - Nov 19, 2025 - [Microsoft 365 Fullstack Dev&#39;s Office Hours - November 2025](https://www.youtube.com/watch?v=-Hgs60UlEwk)
 - Oct 22, 2025 - [Microsoft 365 Fullstack Dev&#39;s Office Hours - October 2025](https://www.youtube.com/watch?v=x0eAZV9fIWk)
