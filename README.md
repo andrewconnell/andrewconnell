@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Dec 26, 2025 - [Join Me - Microsoft 365 Community Day - Miami FEB 2, 2024](https://www.voitanos.io/blog/joinme-m365communityday-miami-2026/?utm_medium=rss&utm_source=voitanos.io)
 - Dec 8, 2025 - [Customize SPFx Heft Toolchain: Plugins, Scripts, and Webpack](https://www.voitanos.io/blog/sharepoint-framework-customize-heft-toolchain-plugins-scripts-webpack/?utm_medium=rss&utm_source=voitanos.io)
 - Dec 8, 2025 - [How To: Create Custom Heft Plugins to Lint Stylesheets](https://www.voitanos.io/blog/heft-create-custom-plugin-stylelint/?utm_medium=rss&utm_source=voitanos.io)
 - Dec 8, 2025 - [SharePoint Framework v1.22: What&#39;s in the Latest SPFx Update](https://www.voitanos.io/blog/sharepoint-framework-v1-22-whats-in-latest-update-of-spfx/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 24, 2025 - [Announcing: Microsoft Teams App/Tab Dev New LIVE Workshop](https://www.voitanos.io/blog/microsoft-teams-apps-tabs-workshop/?utm_medium=rss&utm_source=voitanos.io)
-- Nov 21, 2025 - [Announcing: Revamped SPFx Workshop – Built on Your Feedback](https://www.voitanos.io/blog/sharepoint-framework-workshop-v2/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Nov 24, 2025 - [Announcing: Microsoft Teams App/Tab Dev New LIVE Workshop](https://www.voitanos.io/blog/microsoft-teams-apps-tabs-workshop/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
