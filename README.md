@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jan 10, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Office Hours: February 2026](https://www.youtube.com/watch?v=jodYC0oN3sI)
 - Jan 9, 2026 - [SPFx v1.22&#39;s New Toolchain: What you need to know: Gulp is OUT, HEFT is IN!](https://www.youtube.com/watch?v=OoPytap543s)
 - Jan 9, 2026 - [What is Heft and how it replaces Gulp in SPFx projects?](https://www.youtube.com/shorts/-Jk-ijY-vGE)
 - Dec 30, 2025 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Monthly Office Hours: January 2026](https://www.youtube.com/watch?v=LRWc0HoIt9o)
-- Dec 10, 2025 - [Evaluate your Microsoft 365 Copilot Agent options: Copilot Studio or Agents Toolkit with VS Code](https://www.youtube.com/watch?v=EGgT2ZGzNUc)
-- Nov 26, 2025 - [JSON Hell to TypeSpec: Build M365 Copilot Declarative Agents the Right Way](https://www.youtube.com/watch?v=imolAR1C6o8)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Dec 10, 2025 - [Evaluate your Microsoft 365 Copilot Agent options: Copilot Studio or Agents Toolkit with VS Code](https://www.youtube.com/watch?v=EGgT2ZGzNUc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
