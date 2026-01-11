@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jan 10, 2026 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - February 2026](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2026-02-february/?utm_medium=rss&utm_source=voitanos.io)
 - Dec 30, 2025 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - January 2026](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2026-01-jannuary/?utm_medium=rss&utm_source=voitanos.io)
 - Dec 30, 2025 - [Voitanos 2025 in review and what&#39;s ahead in 2026](https://www.voitanos.io/blog/voitanos-2025-review-preview-2026/?utm_medium=rss&utm_source=voitanos.io)
 - Dec 28, 2025 - [Webinar: SPFx v1.22&#39;s New Build System: What Every Developer Needs to Know - Gulp is out; Heft is in!](https://www.voitanos.io/webinars/sharepoint-framework-new-build-system-gulp-out-heft-in/?utm_medium=rss&utm_source=voitanos.io)
-- Dec 26, 2025 - [Join Me - Microsoft 365 Community Day - Miami FEB 2, 2026](https://www.voitanos.io/blog/joinme-m365communityday-miami-2026/?utm_medium=rss&utm_source=voitanos.io)
-- Dec 8, 2025 - [Customize SPFx Heft Toolchain: Plugins, Scripts, and Webpack](https://www.voitanos.io/blog/sharepoint-framework-customize-heft-toolchain-plugins-scripts-webpack/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Dec 26, 2025 - [Join Me - Microsoft 365 Community Day - Miami FEB 2, 2026](https://www.voitanos.io/blog/joinme-m365communityday-miami-2026/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
