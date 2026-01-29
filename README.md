@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jan 28, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/JxExeG6zBBc)
+- Jan 28, 2026 - [TypeSpec: Better Option for M365 Copilot Declarative Agents](https://www.youtube.com/shorts/00W-1rU0ukQ)
 - Jan 27, 2026 - [Evaluate your M365 Copilot Agent Options](https://www.youtube.com/shorts/Vtzx_Ywuvt4)
 - Jan 27, 2026 - [Build Enterprise Apps for Microsoft Teams](https://www.youtube.com/watch?v=klgH57ZXtro)
-- Jan 27, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Monthly Office Hours: January 2026](https://www.youtube.com/shorts/fYFfbPwAZwk)
-- Jan 24, 2026 - [January 2026 - Monthly Office Hours for M356Dev Full Stack Developers](https://www.youtube.com/shorts/P0_PH6boiEY)
-- Jan 24, 2026 - [January 2026 Monthly Office Hours](https://www.youtube.com/shorts/lNfXy9L0lH4)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jan 27, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Monthly Office Hours: January 2026](https://www.youtube.com/shorts/fYFfbPwAZwk)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
