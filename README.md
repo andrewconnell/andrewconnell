@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Feb 3, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/G989mYFaIMw)
 - Feb 2, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/oUwVJpwru4s)
 - Jan 29, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/rwQ9ttX6DF8)
 - Jan 29, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/g-fr-SvlJDM)
-- Jan 28, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/JxExeG6zBBc)
-- Jan 28, 2026 - [TypeSpec: Better Option for M365 Copilot Declarative Agents](https://www.youtube.com/shorts/00W-1rU0ukQ)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jan 28, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/JxExeG6zBBc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
