@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
-- Dec 8, 2025 - [Customize SPFx Heft Toolchain: Plugins, Scripts, and Webpack](https://www.voitanos.io/blog/sharepoint-framework-customize-heft-toolchain-plugins-scripts-webpack/?utm_medium=rss&utm_source=andrewconnell.com)
-- Dec 8, 2025 - [How To: Create custom Heft plugins to lint stylesheets](https://www.voitanos.io/blog/heft-create-custom-plugin-stylelint/?utm_medium=rss&utm_source=andrewconnell.com)
-- Dec 8, 2025 - [SharePoint Framework v1.22: What&#39;s in the Latest SPFx Update](https://www.voitanos.io/blog/sharepoint-framework-v1-22-whats-in-latest-update-of-spfx/?utm_medium=rss&utm_source=andrewconnell.com)
-- Nov 24, 2025 - [Announcing: Microsoft Teams App/Tab Dev New LIVE Workshop](https://www.voitanos.io/blog/microsoft-teams-apps-tabs-workshop/?utm_medium=rss&utm_source=andrewconnell.com)
-- Nov 21, 2025 - [Announcing: Revamped SPFx Workshop – Built on Your Feedback](https://www.voitanos.io/blog/sharepoint-framework-workshop-v2/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Feb 3, 2026 - [Navigating Microsoft Teams Docs: A Developer Survival Guide](https://www.voitanos.io/blog/microsoft-teams-navigate-developer-docs-survival-guide/?utm_medium=rss&utm_source=andrewconnell.com)
+- Jan 12, 2026 - [Six Things All SharePoint Framework Developers Must Know](https://www.voitanos.io/blog/sharepoint-framework-core-things-every-developer-must-know/?utm_medium=rss&utm_source=andrewconnell.com)
+- Dec 30, 2025 - [Voitanos 2025 in review and what&#39;s ahead in 2026](https://www.voitanos.io/blog/voitanos-2025-review-preview-2026/?utm_medium=rss&utm_source=andrewconnell.com)
+- Dec 26, 2025 - [Join Me - Microsoft 365 Community Day - Miami FEB 2, 2026](https://www.voitanos.io/blog/joinme-m365communityday-miami-2026/?utm_medium=rss&utm_source=andrewconnell.com)
+- Dec 8, 2025 - [Customize SPFx Heft Toolchain: Plugins, Scripts, and Webpack](https://www.voitanos.io/blog/sharepoint-framework-customize-heft-toolchain-plugins-scripts-webpack/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
