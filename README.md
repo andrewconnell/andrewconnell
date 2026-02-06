@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Feb 5, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/ealXpGmHfeM)
+- Feb 5, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/VqvlgJ1AGsc)
+- Feb 5, 2026 - [Build Enterprise Apps for Microsoft Teams](https://www.youtube.com/watch?v=klgH57ZXtro)
 - Feb 4, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/vF9f2FWiR-A)
-- Feb 4, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/YihPEYuVQRc)
-- Feb 3, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/G989mYFaIMw)
-- Feb 2, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/oUwVJpwru4s)
-- Jan 29, 2026 - [Are you a web developer, SharePoint Framework developer, Power Apps developer, or a Microsoft 365 de](https://www.youtube.com/shorts/rwQ9ttX6DF8)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Feb 4, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/YihPEYuVQRc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
