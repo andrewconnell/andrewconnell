@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Feb 7, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/1TvLhBKVcXo)
+- Feb 7, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/Dw_Myc6tBoc)
 - Feb 6, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/QldwOZP2wRk)
 - Feb 6, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/CnxGER-An3g)
-- Feb 5, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/ealXpGmHfeM)
-- Feb 5, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/VqvlgJ1AGsc)
-- Feb 5, 2026 - [Build Enterprise Apps for Microsoft Teams](https://www.youtube.com/watch?v=klgH57ZXtro)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Feb 5, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/ealXpGmHfeM)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
