@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
-- Feb 20, 2026 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - March 2026](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2026-03-march/?utm_medium=rss&utm_source=voitanos.io)
 - Feb 10, 2026 - [Altering M365 Copilot&#39;s Default Workflow - It&#39;s Possible!](https://www.voitanos.io/blog/microsoft-365-copilot-fix-agent-default-workflow-enterprise-search/?utm_medium=rss&utm_source=voitanos.io)
 - Feb 3, 2026 - [Navigating Microsoft Teams Docs: A Developer Survival Guide](https://www.voitanos.io/blog/microsoft-teams-navigate-developer-docs-survival-guide/?utm_medium=rss&utm_source=voitanos.io)
 - Jan 27, 2026 - [Webinar: Build Enterprise Apps for Microsoft Teams](https://www.voitanos.io/webinars/microsoft-teams-apps-underrated-build-enterprise-appdev/?utm_medium=rss&utm_source=voitanos.io)
-- Jan 27, 2026 - [Microsoft Teams Apps: an Underrated Platform for Enterprises](https://www.voitanos.io/blog/microsoft-teams-apps-underrated-enterprise-appdev/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jan 27, 2026 - [Microsoft Teams Apps: an Underrated Platform for Enterprises](https://www.voitanos.io/blog/microsoft-teams-apps-underrated-enterprise-appdev/?utm_medium=rss&utm_source=voitanos.io)
+- Jan 12, 2026 - [Six Things All SharePoint Framework Developers Must Know](https://www.voitanos.io/blog/sharepoint-framework-core-things-every-developer-must-know/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
