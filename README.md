@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Mar 9, 2026 - [Why You Should Create Custom Agents for M365 Copilot](https://www.voitanos.io/blog/microsoft-365-copilot-why-you-should-create-agents/?utm_medium=rss&utm_source=voitanos.io)
+- Mar 9, 2026 - [Webinar: Agent Showdown Part 2: Crafting Your Agent Strategy](https://www.voitanos.io/webinars/agent-showdown-part2-crafting-your-agent-strategy/?utm_medium=rss&utm_source=voitanos.io)
 - Mar 4, 2026 - [Join me - AgentCon NYC - March 9, 2026 - M365 Copilot Agent Options](https://www.voitanos.io/blog/joinme-agentcon-newyork-2026/?utm_medium=rss&utm_source=voitanos.io)
 - Feb 23, 2026 - [My approach to DOM manipulation in SharePoint Framework](https://www.voitanos.io/blog/sharepoint-framework-dom-manipulation-my-approach/?utm_medium=rss&utm_source=voitanos.io)
-- Feb 20, 2026 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - March 2026](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2026-03-march/?utm_medium=rss&utm_source=voitanos.io)
-- Feb 10, 2026 - [Altering M365 Copilot&#39;s Default Workflow - It&#39;s Possible!](https://www.voitanos.io/blog/microsoft-365-copilot-fix-agent-default-workflow-enterprise-search/?utm_medium=rss&utm_source=voitanos.io)
-- Feb 3, 2026 - [Navigating Microsoft Teams Docs: A Developer Survival Guide](https://www.voitanos.io/blog/microsoft-teams-navigate-developer-docs-survival-guide/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Feb 20, 2026 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - March 2026](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2026-03-march/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
