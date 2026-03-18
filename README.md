@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
-- Mar 9, 2026 - [25 Years of SharePoint: A Developer&#39;s Reflections on Building a Career on One Platform](https://www.voitanos.io/blog/sharepoint-developer-career-25-years/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 9, 2026 - [Why You Should Create Custom Agents for M365 Copilot](https://www.voitanos.io/blog/microsoft-365-copilot-why-you-should-create-agents/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 9, 2026 - [Webinar: Agent Showdown Part 2: Crafting Your Agent Strategy](https://www.voitanos.io/webinars/agent-showdown-part2-crafting-your-agent-strategy/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 4, 2026 - [Join me - AgentCon NYC - March 9, 2026 - M365 Copilot Agent Options](https://www.voitanos.io/blog/joinme-agentcon-newyork-2026/?utm_medium=rss&utm_source=voitanos.io)
-- Feb 23, 2026 - [My approach to DOM manipulation in SharePoint Framework](https://www.voitanos.io/blog/sharepoint-framework-dom-manipulation-my-approach/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Mar 17, 2026 - [Webinar: AI-Powered Microsoft 365 Development + Special Announcement!](https://www.voitanos.io/webinars/microsoft-365-ai-assisted-development-20260407/?utm_medium=rss&utm_source=voitanos.io)
+- Mar 17, 2026 - [Webinar: AI-Powered Microsoft 365 Development + Special Announcement!](https://www.voitanos.io/webinars/microsoft-365-ai-assisted-development-20260414/?utm_medium=rss&utm_source=voitanos.io)
+- Mar 17, 2026 - [Microsoft 365 Agents Toolkit v6.6.0 Release Review](https://www.voitanos.io/blog/microsoft-365-agents-toolkit-v6-6-0-release-review/?utm_medium=rss&utm_source=voitanos.io)
+- Mar 16, 2026 - [Webinar: Evaluate your Microsoft 365 Copilot Agent Options](https://www.voitanos.io/webinars/microsoft-365-copilot-evaluate-your-agent-options-20260408/?utm_medium=rss&utm_source=voitanos.io)
+- Mar 16, 2026 - [Webinar: The Developer&#39;s Guide to Declarative Agents for Microsoft 365 Copilot](https://www.voitanos.io/webinars/microsoft-365-copilot-developers-guide-declarative-agents-20260415/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
