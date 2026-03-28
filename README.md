@@ -25,11 +25,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Mar 23, 2026 - [My Thoughts on Vibe Coding vs. Agentic Engineering](https://www.voitanos.io/blog/vibe-coding-vs-agentic-engineering/?utm_medium=rss&utm_source=voitanos.io)
 - Mar 17, 2026 - [Webinar: AI-Powered Microsoft 365 Development + Special Announcement!](https://www.voitanos.io/webinars/microsoft-365-ai-assisted-development-20260407/?utm_medium=rss&utm_source=voitanos.io)
 - Mar 17, 2026 - [Webinar: AI-Powered Microsoft 365 Development + Special Announcement!](https://www.voitanos.io/webinars/microsoft-365-ai-assisted-development-20260414/?utm_medium=rss&utm_source=voitanos.io)
 - Mar 17, 2026 - [Microsoft 365 Agents Toolkit v6.6.0 Release Review](https://www.voitanos.io/blog/microsoft-365-agents-toolkit-v6-6-0-release-review/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 16, 2026 - [Webinar: Evaluate your Microsoft 365 Copilot Agent Options](https://www.voitanos.io/webinars/microsoft-365-copilot-evaluate-your-agent-options-20260408/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 16, 2026 - [Webinar: The Developer&#39;s Guide to Declarative Agents for Microsoft 365 Copilot](https://www.voitanos.io/webinars/microsoft-365-copilot-developers-guide-declarative-agents-20260415/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Mar 16, 2026 - [Webinar: Evaluate your Microsoft 365 Copilot Agent Options](https://www.voitanos.io/webinars/microsoft-365-copilot-evaluate-your-agent-options-20260408/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
