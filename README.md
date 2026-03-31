@@ -33,10 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Mar 30, 2026 - [Supercharge Your Microsoft 365 Dev Workflow with Claude Code](https://www.youtube.com/watch?v=SrROnq3bnOc)
+- Mar 30, 2026 - [The Developer&#39;s Guide to Declarative Agents for Microsoft 365 Copilot](https://www.youtube.com/watch?v=_ON9PDjjraw)
+- Mar 30, 2026 - [Evaluate your Microsoft 365 Copilot Agent Options](https://www.youtube.com/watch?v=REQlaKCBstk)
 - Mar 5, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Monthly Office Hours - March 2026](https://www.youtube.com/watch?v=Z7vImL-9yhE)
-- Feb 25, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Office Hours: February 2026](https://www.youtube.com/watch?v=jodYC0oN3sI)
-- Feb 10, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/R7G1s_dmRmk)
-- Feb 10, 2026 - [Join me on the SharePoint 25th anniversary event and during the SharePoint Hackathon 2026!
-
-For 25 y](https://www.youtube.com/shorts/bvV9dTfUDYM)
-- Feb 10, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/sy28LXnhr9o)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Feb 25, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Office Hours: February 2026](https://www.youtube.com/watch?v=jodYC0oN3sI)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
