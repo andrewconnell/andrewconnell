@@ -25,7 +25,7 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
-- Apr 15, 2026 - [Developer&#39;s guide to declarative agents for Microsoft 365 Copilot](https://www.voitanos.io/blog/microsoft-365-copilot-developers-guide-declarative-agents-webinar-recap-20260415/?utm_medium=rss&utm_source=voitanos.io)
+- Apr 15, 2026 - [Developer&#39;s guide to declarative agents for Microsoft 365 Copilot: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-developers-guide-declarative-agents-webinar-recap-20260415/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 14, 2026 - [Microsoft 365 Copilot Declarative Agents What&#39;s New - April 2026](https://www.voitanos.io/blog/microsoft-365-copilot-declarative-agents-whats-new-202604-april-2026/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 13, 2026 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - April 2026](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2026-04-april/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 10, 2026 - [Evaluating Your Microsoft 365 Copilot Agent Options: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-evaluate-your-agent-options-webinar-recap-20260408/?utm_medium=rss&utm_source=voitanos.io)
