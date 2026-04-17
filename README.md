@@ -33,8 +33,8 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Apr 16, 2026 - [The Developer&#39;s Guide to Declarative Agents for Microsoft 365 Copilot](https://www.youtube.com/watch?v=_ON9PDjjraw)
+- Apr 14, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Monthly Office Hours - April 2026](https://www.youtube.com/watch?v=d0bqexDRZrA)
 - Apr 9, 2026 - [Evaluate your Microsoft 365 Copilot Agent Options](https://www.youtube.com/watch?v=REQlaKCBstk)
 - Mar 30, 2026 - [Supercharge Your Microsoft 365 Dev Workflow with Claude Code](https://www.youtube.com/watch?v=SrROnq3bnOc)
-- Mar 30, 2026 - [The Developer&#39;s Guide to Declarative Agents for Microsoft 365 Copilot](https://www.youtube.com/watch?v=_ON9PDjjraw)
-- Feb 25, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Office Hours: February 2026](https://www.youtube.com/watch?v=jodYC0oN3sI)
-- Feb 10, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/R7G1s_dmRmk)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Feb 25, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Office Hours: February 2026](https://www.youtube.com/watch?v=jodYC0oN3sI)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
