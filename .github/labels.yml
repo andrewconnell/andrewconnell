@@ -1,0 +1,19 @@
+- name: Claude Code Plan
+  description: Plan created/used with Claude Code.
+  color: C15F3C
+
+- name: READY for DEV
+  description: Claude Code plan is complete & ready for implementation.
+  color: 0e8a16
+
+- name: PENDING or WIP
+  description: Need to create or complete the plan for Claude Code implementation.
+  color: E3B8A8
+
+- name: voitanos.io
+  description: Applies to Voitanos website(s).
+  color: D96200
+
+- name: andrewconnell.com
+  description: Applies to AndrewConnell.com website(s).
+  color: 0E1F43
