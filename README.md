@@ -17,11 +17,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
+- May 23, 2026 - [Join me - TechCon365 - Seattle, August 2026 for Microsoft 365 Copilot &amp; AI Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2026/?utm_medium=rss&utm_source=andrewconnell.com)
 - Mar 9, 2026 - [25 Years of SharePoint: A Developer&#39;s Reflections on Building a Career on One Platform](https://www.voitanos.io/blog/sharepoint-developer-career-25-years/?utm_medium=rss&utm_source=andrewconnell.com)
 - Mar 9, 2026 - [Why You Should Create Custom Agents for M365 Copilot](https://www.voitanos.io/blog/microsoft-365-copilot-why-you-should-create-agents/?utm_medium=rss&utm_source=andrewconnell.com)
 - Mar 4, 2026 - [Join me - AgentCon NYC - March 9, 2026 - M365 Copilot Agent Options](https://www.voitanos.io/blog/joinme-agentcon-newyork-2026/?utm_medium=rss&utm_source=andrewconnell.com)
-- Feb 23, 2026 - [My approach to DOM manipulation in SharePoint Framework](https://www.voitanos.io/blog/sharepoint-framework-dom-manipulation-my-approach/?utm_medium=rss&utm_source=andrewconnell.com)
-- Feb 10, 2026 - [Altering M365 Copilot&#39;s Default Workflow - It&#39;s Possible!](https://www.voitanos.io/blog/microsoft-365-copilot-fix-agent-default-workflow-enterprise-search/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
+- Feb 23, 2026 - [My approach to DOM manipulation in SharePoint Framework](https://www.voitanos.io/blog/sharepoint-framework-dom-manipulation-my-approach/?utm_medium=rss&utm_source=andrewconnell.com)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
