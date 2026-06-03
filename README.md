@@ -1,19 +1,21 @@
 ## Hi, I'm Andrew 👋🏼
 
-I am a full stack developer who focuses on Microsoft Azure & Microsoft 365. I am a 20+ year recipient of Microsoft's MVP award and has helped thousands of developers through the various courses I've authored & taught. Whether it's an introduction to the entire ecosystem, or a deep dive into a specific software, my resources, tools, and support help web developers become experts in the Microsoft 365 ecosystem, so they can become irreplaceable in their organization.
+I'm a Principal Software Engineer at [AvePoint](https://www.avepoint.com), where I focus on agentic engineering: using AI to build and ship product to market with more velocity than traditional development allows. I'm a [22-year recipient of Microsoft's MVP Award](https://andrewconnell.social/mvp) and for the past two decades has specialized in the Microsoft 365 Developer and Microsoft Azure ecosystems.
 
-I'm the founder of [Voitanos](https://www.voitanos.io). My mission is to **teach web developers how to become an expert in the Microsoft 365 ecosystem**.
+In 2016 I founded [Voitanos](https://www.voitanos.io), a training platform that has helped thousands of developers become experts in Microsoft 365 through live workshops, on-demand video courses, and a newsletter with over 22,000 subscribers. *Voitanos will close on October 1, 2026 following my move to join AvePoint in May 2026.*
+
+I continues to write, speak at conferences, and share what he's learning at [https://www.andrewconnell.com](https://www.andrewconnell.com).
 
 I live with my wife & two kids in Florida.
 
-[![](./images/mail.svg)](https://newsletter.voitanos.io) 
-[![](./images/youtube.svg)](https://andrewconnell.social/youtube) 
-[![](./images/linkedin.svg)](https://andrewconnell.social/linkedin) 
-[![](./images/threads.svg)](https://andrewconnell.social/threads) 
-[![](./images/bluesky.svg)](https://andrewconnell.social/bluesky) 
-[![](./images/instagram.svg)](andrewconnell.social/instagram) 
-[![](./images/github.svg)](andrewconnell.social/github) 
-[![](./images/mvp.svg)](andrewconnell.social/mvp) 
+[![](./images/mail.svg)](https://newsletter.voitanos.io)
+[![](./images/linkedin.svg)](https://andrewconnell.social/linkedin)
+[![](./images/youtube.svg)](https://andrewconnell.social/youtube)
+[![](./images/instagram.svg)](https://andrewconnell.social/instagram)
+[![](./images/threads.svg)](https://andrewconnell.social/threads)
+[![](./images/bluesky.svg)](https://andrewconnell.social/bluesky)
+[![](./images/github.svg)](https://andrewconnell.social/github)
+[![](./images/mvp.svg)](https://andrewconnell.social/mvp)
 
 ## 📘 Latest articles from [my site](https://www.andrewconnell.com/)
 <!-- MYBLOG-POST-LIST:START -->
