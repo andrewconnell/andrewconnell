@@ -27,11 +27,11 @@ I live with my wife & two kids in Florida.
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog/)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jun 6, 2026 - [Customize Your Claude Code Status Line to Manage Token Burn](https://www.voitanos.io/blog/claude-code-cli-statusline/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 4, 2026 - [Join Me @ ESPC in Amsterdam in DEC 2026 - M365 Copilot Dev](https://www.voitanos.io/blog/joinme-espc-amsterdam-2026/?utm_medium=rss&utm_source=voitanos.io)
 - May 23, 2026 - [Join me - TechCon365 - Seattle, August 2026 for Microsoft 365 Copilot &amp; AI Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2026/?utm_medium=rss&utm_source=voitanos.io)
 - May 11, 2026 - [Voitanos Is Closing: What Happens Next](https://www.voitanos.io/blog/voitanos-closing-2026/?utm_medium=rss&utm_source=voitanos.io)
-- May 10, 2026 - [Replicate Your Hands, Not Your Brain: When to Automate with AI](https://www.voitanos.io/blog/replicate-your-hands-not-your-brain/?utm_medium=rss&utm_source=voitanos.io)
-- Apr 15, 2026 - [Developer&#39;s guide to declarative agents for Microsoft 365 Copilot: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-developers-guide-declarative-agents-webinar-recap-20260415/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- May 10, 2026 - [Replicate Your Hands, Not Your Brain: When to Automate with AI](https://www.voitanos.io/blog/replicate-your-hands-not-your-brain/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/@andrew_connell)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
