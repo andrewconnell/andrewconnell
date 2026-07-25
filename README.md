@@ -1,10 +1,10 @@
 ## Hi, I'm Andrew 👋🏼
 
-I'm a Principal Software Engineer at [AvePoint](https://www.avepoint.com), where I focus on agentic engineering: using AI to build and ship product to market with more velocity than traditional development allows. I'm a [22-year recipient of Microsoft's MVP Award](https://andrewconnell.social/mvp) and for the past two decades has specialized in the Microsoft 365 Developer and Microsoft Azure ecosystems.
+I'm a Principal Software Engineer at [AvePoint](https://www.avepoint.com), where I focus on agentic engineering: using AI to build and ship product to market with more velocity than traditional development allows. I'm a [23-year recipient of Microsoft's MVP Award](https://andrewconnell.social/mvp) and, for the past two decades, have specialized in the Microsoft 365 Developer and Microsoft Azure ecosystems.
 
-In 2016 I founded [Voitanos](https://www.voitanos.io), a training platform that has helped thousands of developers become experts in Microsoft 365 through live workshops, on-demand video courses, and a newsletter with over 22,000 subscribers. *Voitanos will close on October 1, 2026 following my move to join AvePoint in May 2026.*
+In 2016, I founded [Voitanos](https://www.voitanos.io), a training platform that has helped thousands of developers become experts in Microsoft 365 through live workshops, on-demand video courses, and a newsletter with over 22,000 subscribers. *Voitanos will close on October 1, 2026, following my move to join AvePoint in May 2026.*
 
-I continues to write, speak at conferences, and share what he's learning at [https://www.andrewconnell.com](https://www.andrewconnell.com).
+I continue to write, speak at conferences, and share what I'm learning at [https://www.andrewconnell.com](https://www.andrewconnell.com).
 
 I live with my wife & two kids in Florida.
 
