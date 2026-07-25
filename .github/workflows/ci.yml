@@ -19,17 +19,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MYBLOG-POST-LIST"
-          feed_list: "https://www.andrewconnell.com/blog/rss.xml"
+          feed_list: "https://www.andrewconnell.com/articles/rss.xml"
           commit_message: "🤖♻️ Update README with my latest blog posts"
-          max_post_count: "5"
-          date_format: "mmm d, yyyy"
-          template: '$newline- $date - [$title]($url)'
-      - name: Update Voitanos' blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://www.voitanos.io/index.xml"
-          comment_tag_name: "VOITANOSBLOG-POST-LIST"
-          commit_message: "🤖♻️ Update README with Voitanos' latest blog posts"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'
